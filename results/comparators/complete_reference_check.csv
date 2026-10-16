@@ -1,0 +1,91 @@
+context_id,policy,mode,n,A,K,D,B,assigned_n,strict_accepted_n,strict_feasible,selected_group_violations,matches_reference
+FI::Haapa-Kimola | CLAY | ILOT,nominal,compact,24,18,1,122,0.0061837357246500345,6,0,False,0,True
+FI::Haarajoki | CLAY | ILOT,nominal,compact,21,5,1,90,0.017052864011028717,16,0,False,0,True
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nominal,compact,18,11,1,63,0.005540691652961904,7,0,False,0,True
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nominal,compact,24,0,2,80,0.0227857780462419,24,24,True,0,True
+FI::Östersundom | CLAY | ILOT,nominal,compact,8,8,0,9,0.0,0,0,False,0,True
+P07 | LOAM | g | sigma3=100.0,nominal,compact,12,0,1,36,0.008341162287255037,12,12,True,0,True
+P09 | LOAM | m | sigma3=50.0,nominal,compact,12,0,2,26,0.012296032632460697,12,12,True,0,True
+P15 | LOAM | l | sigma3=50.0,nominal,compact,12,4,1,22,0.013468501518606034,8,0,False,0,True
+PRIMARY::P01 | CLAY | C,nominal,compact,8,2,1,8,0.009036823416498535,6,0,False,0,True
+PRIMARY::P01 | CLAY | C,nominal,repair,8,2,1,8,0.009036823416498535,6,0,False,0,True
+PRIMARY::P01 | CLAY | J,nominal,compact,11,2,1,20,0.022879106156734313,9,0,False,0,True
+PRIMARY::P01 | CLAY | J,nominal,repair,11,2,1,20,0.022879106156734313,9,0,False,0,True
+PRIMARY::P01 | LOAM | pr,nominal,compact,10,4,1,15,0.014774222700489264,6,0,False,0,True
+PRIMARY::P01 | LOAM | pr,nominal,repair,10,4,1,15,0.014774222700489264,6,0,False,0,True
+PRIMARY::P06 | CLAY | C,nominal,compact,12,0,2,20,0.0038717781366300105,12,12,True,0,True
+PRIMARY::P06 | CLAY | C,nominal,repair,12,0,2,0,0.005443278490525085,12,12,True,0,True
+PRIMARY::P08 | CLAY | C,nominal,compact,11,3,1,27,0.005522643634719022,8,0,False,0,True
+PRIMARY::P08 | CLAY | C,nominal,repair,11,3,1,27,0.005522643634719022,8,0,False,0,True
+PRIMARY::P08 | CLAY | J,nominal,compact,8,1,1,15,0.002045486851896217,7,7,True,0,True
+PRIMARY::P08 | CLAY | J,nominal,repair,8,1,1,15,0.002045486851896217,7,7,True,0,True
+PRIMARY::P08 | LOAM | C,nominal,compact,8,1,1,7,0.007212427039516475,7,7,True,0,True
+PRIMARY::P08 | LOAM | C,nominal,repair,8,1,1,7,0.007212427039516475,7,7,True,0,True
+PRIMARY::P13 | CLAY | C,nominal,compact,12,0,1,36,0.005572964161283071,12,12,True,0,True
+PRIMARY::P13 | CLAY | C,nominal,repair,12,0,2,0,0.004825277847452233,12,12,True,0,True
+PRIMARY::P13 | LOAM | C,nominal,compact,17,0,2,59,0.010915810622042128,17,17,True,0,True
+PRIMARY::P13 | LOAM | C,nominal,repair,17,0,2,39,0.011645850705088232,17,17,True,0,True
+PRIMARY::P13 | LOAM | f,nominal,compact,9,1,1,15,0.008369496937071032,8,8,True,0,True
+PRIMARY::P13 | LOAM | f,nominal,repair,9,1,1,15,0.008369496937071032,8,8,True,0,True
+PRIMARY::P13 | LOAM | g,nominal,compact,10,1,1,22,0.018267021817744748,9,9,True,0,True
+PRIMARY::P13 | LOAM | g,nominal,repair,10,1,1,22,0.018267021817744748,9,9,True,0,True
+FI::Haapa-Kimola | CLAY | ILOT,nu_5pct,compact,24,18,1,122,0.0061837357246500345,6,0,False,0,True
+FI::Haarajoki | CLAY | ILOT,nu_5pct,compact,21,5,1,90,0.017052864011028717,16,0,False,0,True
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nu_5pct,compact,18,11,1,63,0.005540691652961904,7,0,False,0,True
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nu_5pct,compact,24,0,3,125,0.015462867767050805,24,24,True,0,True
+FI::Östersundom | CLAY | ILOT,nu_5pct,compact,8,8,0,9,0.0,0,0,False,0,True
+P07 | LOAM | g | sigma3=100.0,nu_5pct,compact,12,0,1,36,0.008341162287255037,12,12,True,0,True
+P09 | LOAM | m | sigma3=50.0,nu_5pct,compact,12,0,2,28,0.01654158188909175,12,12,True,0,True
+P15 | LOAM | l | sigma3=50.0,nu_5pct,compact,12,6,1,9,0.0022821179841497267,6,0,False,0,True
+PRIMARY::P01 | CLAY | C,nu_5pct,compact,8,2,1,8,0.009036823416498535,6,0,False,0,True
+PRIMARY::P01 | CLAY | C,nu_5pct,repair,8,2,1,8,0.009036823416498535,6,0,False,0,True
+PRIMARY::P01 | CLAY | J,nu_5pct,compact,11,2,1,20,0.022879106156734313,9,0,False,0,True
+PRIMARY::P01 | CLAY | J,nu_5pct,repair,11,2,1,20,0.022879106156734313,9,0,False,0,True
+PRIMARY::P01 | LOAM | pr,nu_5pct,compact,10,4,1,15,0.014774222700489264,6,0,False,0,True
+PRIMARY::P01 | LOAM | pr,nu_5pct,repair,10,4,1,15,0.014774222700489264,6,0,False,0,True
+PRIMARY::P06 | CLAY | C,nu_5pct,compact,12,0,2,32,0.004561789015178693,12,12,True,0,True
+PRIMARY::P06 | CLAY | C,nu_5pct,repair,12,0,2,20,0.005036314726904547,12,12,True,0,True
+PRIMARY::P08 | CLAY | C,nu_5pct,compact,11,3,1,27,0.005522643634719022,8,0,False,0,True
+PRIMARY::P08 | CLAY | C,nu_5pct,repair,11,3,1,27,0.005522643634719022,8,0,False,0,True
+PRIMARY::P08 | CLAY | J,nu_5pct,compact,8,1,1,15,0.002045486851896217,7,7,True,0,True
+PRIMARY::P08 | CLAY | J,nu_5pct,repair,8,1,1,15,0.002045486851896217,7,7,True,0,True
+PRIMARY::P08 | LOAM | C,nu_5pct,compact,8,1,1,7,0.007212427039516475,7,7,True,0,True
+PRIMARY::P08 | LOAM | C,nu_5pct,repair,8,1,1,7,0.007212427039516475,7,7,True,0,True
+PRIMARY::P13 | CLAY | C,nu_5pct,compact,12,0,1,36,0.005572964161283071,12,12,True,0,True
+PRIMARY::P13 | CLAY | C,nu_5pct,repair,12,0,2,20,0.0041892341205735486,12,12,True,0,True
+PRIMARY::P13 | LOAM | C,nu_5pct,compact,17,0,2,59,0.010915810622042128,17,17,True,0,True
+PRIMARY::P13 | LOAM | C,nu_5pct,repair,17,0,2,39,0.011645850705088232,17,17,True,0,True
+PRIMARY::P13 | LOAM | f,nu_5pct,compact,9,1,1,15,0.008369496937071032,8,8,True,0,True
+PRIMARY::P13 | LOAM | f,nu_5pct,repair,9,1,1,15,0.008369496937071032,8,8,True,0,True
+PRIMARY::P13 | LOAM | g,nu_5pct,compact,10,1,1,22,0.018267021817744748,9,9,True,0,True
+PRIMARY::P13 | LOAM | g,nu_5pct,repair,10,1,1,22,0.018267021817744748,9,9,True,0,True
+FI::Haapa-Kimola | CLAY | ILOT,cv_10pct_nu_5pct,compact,24,24,0,115,0.0,0,0,False,0,True
+FI::Haarajoki | CLAY | ILOT,cv_10pct_nu_5pct,compact,21,5,1,90,0.017052864011028717,16,0,False,0,True
+FI::Söderkulla-Nikkilä | CLAY | ILOT,cv_10pct_nu_5pct,compact,18,11,1,63,0.005540691652961904,7,0,False,0,True
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",cv_10pct_nu_5pct,compact,24,0,3,104,0.016369441737194946,24,24,True,0,True
+FI::Östersundom | CLAY | ILOT,cv_10pct_nu_5pct,compact,8,8,0,9,0.0,0,0,False,0,True
+P07 | LOAM | g | sigma3=100.0,cv_10pct_nu_5pct,compact,12,0,1,36,0.008341162287255037,12,12,True,0,True
+P09 | LOAM | m | sigma3=50.0,cv_10pct_nu_5pct,compact,12,0,2,28,0.01654158188909175,12,12,True,0,True
+P15 | LOAM | l | sigma3=50.0,cv_10pct_nu_5pct,compact,12,6,1,9,0.0022821179841497267,6,0,False,0,True
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,compact,8,2,1,8,0.009036823416498535,6,0,False,0,True
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,repair,8,2,1,8,0.009036823416498535,6,0,False,0,True
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,compact,11,4,1,23,0.009731827520455158,7,0,False,0,True
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,repair,11,4,1,15,0.01606561969586882,7,0,False,0,True
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,compact,10,10,0,14,0.0,0,0,False,0,True
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,repair,10,10,0,14,0.0,0,0,False,0,True
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,compact,12,0,2,32,0.004561789015178693,12,12,True,0,True
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,repair,12,0,2,20,0.005036314726904547,12,12,True,0,True
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,compact,11,3,1,27,0.005522643634719022,8,0,False,0,True
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,repair,11,3,1,27,0.005522643634719022,8,0,False,0,True
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,compact,8,1,1,15,0.002045486851896217,7,7,True,0,True
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,repair,8,1,1,15,0.002045486851896217,7,7,True,0,True
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,compact,8,1,1,7,0.007212427039516475,7,7,True,0,True
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,repair,8,1,1,7,0.007212427039516475,7,7,True,0,True
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,compact,12,0,1,36,0.005572964161283071,12,12,True,0,True
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,repair,12,0,2,20,0.0041892341205735486,12,12,True,0,True
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,compact,17,0,2,59,0.010915810622042128,17,17,True,0,True
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,repair,17,0,2,39,0.011645850705088232,17,17,True,0,True
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,compact,9,1,1,15,0.008369496937071032,8,8,True,0,True
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,repair,9,1,1,15,0.008369496937071032,8,8,True,0,True
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,compact,10,1,1,22,0.018267021817744748,9,9,True,0,True
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,repair,10,1,1,22,0.018267021817744748,9,9,True,0,True

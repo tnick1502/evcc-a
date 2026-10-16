@@ -1,0 +1,1255 @@
+context_id,dataset,policy,cv_reserve,nu_reserve,profile,method,run,screened_proposals,raw_proposals,raw_below_minimum,raw_size_eligible,minimum_size,CV,extremum,contiguity,material_barrier,fixed_unit,any_violation,hierarchies,merges,partitions,converged,assignment_iterations,reviews_before_property_gates
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,source_union,-1,53,0,0,0,,,,,,,,,,,,,
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,graph_ward,-1,114,56,47,9,0.0,7.0,6.0,0.0,0.0,0.0,9.0,8.0,172.0,,,,
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,0,191,52,25,27,0.0,26.0,18.0,0.0,0.0,0.0,27.0,,,72.0,66.0,348.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,1,183,45,22,23,0.0,22.0,16.0,0.0,0.0,0.0,23.0,,,72.0,66.0,359.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,2,194,56,29,27,0.0,26.0,19.0,0.0,0.0,0.0,27.0,,,72.0,65.0,378.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,3,195,53,26,27,0.0,26.0,21.0,0.0,0.0,0.0,27.0,,,72.0,67.0,325.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,4,208,54,26,28,0.0,27.0,18.0,0.0,0.0,0.0,28.0,,,72.0,67.0,320.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,5,174,47,24,23,0.0,22.0,17.0,0.0,0.0,0.0,23.0,,,72.0,67.0,339.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,6,181,51,28,23,0.0,22.0,16.0,0.0,0.0,0.0,23.0,,,72.0,68.0,289.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,7,200,53,25,28,0.0,27.0,20.0,0.0,0.0,0.0,28.0,,,72.0,65.0,382.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,8,172,44,22,22,0.0,21.0,16.0,0.0,0.0,0.0,22.0,,,72.0,66.0,352.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,9,199,54,25,29,0.0,28.0,21.0,0.0,0.0,0.0,29.0,,,72.0,66.0,349.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,10,198,54,25,29,0.0,28.0,21.0,0.0,0.0,0.0,29.0,,,72.0,69.0,270.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,11,176,49,27,22,0.0,21.0,15.0,0.0,0.0,0.0,22.0,,,72.0,67.0,327.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,12,172,45,21,24,0.0,23.0,15.0,0.0,0.0,0.0,24.0,,,72.0,68.0,295.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,13,185,49,21,28,0.0,27.0,18.0,0.0,0.0,0.0,28.0,,,72.0,68.0,310.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,14,189,48,23,25,0.0,24.0,18.0,0.0,0.0,0.0,25.0,,,72.0,65.0,375.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,15,192,49,22,27,0.0,26.0,19.0,0.0,0.0,0.0,27.0,,,72.0,67.0,336.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,16,190,52,24,28,0.0,27.0,19.0,0.0,0.0,0.0,28.0,,,72.0,64.0,422.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,17,194,53,23,30,0.0,29.0,22.0,0.0,0.0,0.0,30.0,,,72.0,69.0,280.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,18,196,56,28,28,0.0,27.0,20.0,0.0,0.0,0.0,28.0,,,72.0,66.0,347.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,19,209,51,24,27,0.0,27.0,20.0,0.0,0.0,0.0,27.0,,,72.0,68.0,295.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,source_union,-1,50,0,0,0,,,,,,,,,,,,,
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,graph_ward,-1,111,56,47,9,0.0,7.0,7.0,0.0,0.0,0.0,9.0,8.0,172.0,,,,
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,0,188,52,25,27,0.0,26.0,19.0,0.0,0.0,0.0,27.0,,,72.0,66.0,348.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,1,181,45,22,23,0.0,22.0,16.0,0.0,0.0,0.0,23.0,,,72.0,66.0,359.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,2,191,56,29,27,0.0,26.0,20.0,0.0,0.0,0.0,27.0,,,72.0,65.0,378.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,3,193,53,26,27,0.0,26.0,22.0,0.0,0.0,0.0,27.0,,,72.0,67.0,325.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,4,205,54,26,28,0.0,27.0,19.0,0.0,0.0,0.0,28.0,,,72.0,67.0,320.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,5,171,47,24,23,0.0,22.0,18.0,0.0,0.0,0.0,23.0,,,72.0,67.0,339.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,6,178,51,28,23,0.0,22.0,16.0,0.0,0.0,0.0,23.0,,,72.0,68.0,289.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,7,197,53,25,28,0.0,27.0,21.0,0.0,0.0,0.0,28.0,,,72.0,65.0,382.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,8,169,44,22,22,0.0,21.0,17.0,0.0,0.0,0.0,22.0,,,72.0,66.0,352.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,9,196,54,25,29,0.0,28.0,22.0,0.0,0.0,0.0,29.0,,,72.0,66.0,349.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,10,196,54,25,29,0.0,28.0,22.0,0.0,0.0,0.0,29.0,,,72.0,69.0,270.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,11,173,49,27,22,0.0,21.0,16.0,0.0,0.0,0.0,22.0,,,72.0,67.0,327.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,12,169,45,21,24,0.0,23.0,16.0,0.0,0.0,0.0,24.0,,,72.0,68.0,295.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,13,182,49,21,28,0.0,27.0,19.0,0.0,0.0,0.0,28.0,,,72.0,68.0,310.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,14,185,48,23,25,0.0,24.0,19.0,0.0,0.0,0.0,25.0,,,72.0,65.0,375.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,15,190,49,22,27,0.0,26.0,19.0,0.0,0.0,0.0,27.0,,,72.0,67.0,336.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,16,188,52,24,28,0.0,27.0,20.0,0.0,0.0,0.0,28.0,,,72.0,64.0,422.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,17,191,53,23,30,0.0,29.0,23.0,0.0,0.0,0.0,30.0,,,72.0,69.0,280.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,18,193,56,28,28,0.0,27.0,20.0,0.0,0.0,0.0,28.0,,,72.0,66.0,347.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,19,205,51,24,27,0.0,27.0,21.0,0.0,0.0,0.0,27.0,,,72.0,68.0,295.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,50,0,0,0,,,,,,,,,,,,,
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,111,56,47,9,0.0,7.0,7.0,0.0,0.0,0.0,9.0,8.0,172.0,,,,
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,188,52,25,27,0.0,26.0,19.0,0.0,0.0,0.0,27.0,,,72.0,66.0,348.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,181,45,22,23,0.0,22.0,16.0,0.0,0.0,0.0,23.0,,,72.0,66.0,359.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,191,56,29,27,0.0,26.0,20.0,0.0,0.0,0.0,27.0,,,72.0,65.0,378.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,193,53,26,27,0.0,26.0,22.0,0.0,0.0,0.0,27.0,,,72.0,67.0,325.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,204,54,26,28,0.0,27.0,19.0,0.0,0.0,0.0,28.0,,,72.0,67.0,320.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,171,47,24,23,0.0,22.0,18.0,0.0,0.0,0.0,23.0,,,72.0,67.0,339.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,178,51,28,23,0.0,22.0,16.0,0.0,0.0,0.0,23.0,,,72.0,68.0,289.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,197,53,25,28,0.0,27.0,21.0,0.0,0.0,0.0,28.0,,,72.0,65.0,382.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,169,44,22,22,0.0,21.0,17.0,0.0,0.0,0.0,22.0,,,72.0,66.0,352.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,196,54,25,29,0.0,28.0,22.0,0.0,0.0,0.0,29.0,,,72.0,66.0,349.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,196,54,25,29,0.0,28.0,22.0,0.0,0.0,0.0,29.0,,,72.0,69.0,270.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,173,49,27,22,0.0,21.0,16.0,0.0,0.0,0.0,22.0,,,72.0,67.0,327.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,169,45,21,24,0.0,23.0,16.0,0.0,0.0,0.0,24.0,,,72.0,68.0,295.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,186,49,21,28,0.0,27.0,19.0,0.0,0.0,0.0,28.0,,,72.0,68.0,310.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,185,48,23,25,0.0,24.0,19.0,0.0,0.0,0.0,25.0,,,72.0,65.0,375.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,190,49,22,27,0.0,26.0,19.0,0.0,0.0,0.0,27.0,,,72.0,67.0,336.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,188,52,24,28,0.0,27.0,20.0,0.0,0.0,0.0,28.0,,,72.0,64.0,422.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,190,53,23,30,0.0,29.0,23.0,0.0,0.0,0.0,30.0,,,72.0,69.0,280.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,193,56,28,28,0.0,27.0,20.0,0.0,0.0,0.0,28.0,,,72.0,66.0,347.0,0.0
+FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,204,51,24,27,0.0,27.0,21.0,0.0,0.0,0.0,27.0,,,72.0,68.0,295.0,0.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,source_union,-1,33,0,0,0,,,,,,,,,,,,,
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,graph_ward,-1,79,44,37,7,0.0,0.0,3.0,0.0,0.0,0.0,3.0,8.0,152.0,,,,
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,0,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,1,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,2,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,3,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,4,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,5,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,6,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,109.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,7,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,8,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,116.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,9,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,10,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,11,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,116.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,12,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,13,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,14,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,15,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,16,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,17,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,109.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,18,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,19,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,source_union,-1,33,0,0,0,,,,,,,,,,,,,
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,graph_ward,-1,79,44,37,7,0.0,0.0,4.0,0.0,0.0,0.0,4.0,8.0,152.0,,,,
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,0,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,1,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,2,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,3,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,4,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,5,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,6,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,109.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,7,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,8,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,116.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,9,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,10,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,11,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,116.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,12,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,13,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,14,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,15,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,16,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,17,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,109.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,18,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,19,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,33,0,0,0,,,,,,,,,,,,,
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,79,44,37,7,0.0,0.0,4.0,0.0,0.0,0.0,4.0,8.0,152.0,,,,
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,109.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,116.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,112.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,116.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,111.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,109.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Haarajoki | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,42,6,1,5,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,54.0,54.0,110.0,288.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,source_union,-1,28,0,0,0,,,,,,,,,,,,,
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,graph_ward,-1,65,35,30,5,0.0,4.0,4.0,0.0,0.0,0.0,4.0,8.0,136.0,,,,
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,0,54,16,8,8,0.0,7.0,5.0,0.0,0.0,0.0,7.0,,,54.0,53.0,151.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,1,51,14,7,7,0.0,6.0,4.0,0.0,0.0,0.0,6.0,,,54.0,54.0,122.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,2,56,18,10,8,0.0,7.0,5.0,0.0,0.0,0.0,7.0,,,54.0,54.0,118.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,3,54,16,8,8,0.0,7.0,5.0,0.0,0.0,0.0,7.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,4,54,11,5,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,5,61,18,9,9,0.0,8.0,6.0,0.0,0.0,0.0,8.0,,,54.0,54.0,116.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,6,61,18,9,9,0.0,8.0,6.0,0.0,0.0,0.0,8.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,7,56,16,10,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,121.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,8,53,14,9,5,0.0,5.0,4.0,0.0,0.0,0.0,5.0,,,54.0,54.0,119.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,9,56,18,10,8,0.0,7.0,5.0,0.0,0.0,0.0,7.0,,,54.0,53.0,151.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,10,50,13,6,7,0.0,6.0,4.0,0.0,0.0,0.0,6.0,,,54.0,53.0,148.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,11,51,14,7,7,0.0,6.0,4.0,0.0,0.0,0.0,6.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,12,54,16,8,8,0.0,7.0,5.0,0.0,0.0,0.0,7.0,,,54.0,54.0,121.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,13,60,16,9,7,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,127.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,14,53,15,8,7,0.0,6.0,4.0,0.0,0.0,0.0,6.0,,,54.0,54.0,119.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,15,60,16,9,7,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,110.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,16,56,13,7,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,17,59,17,9,8,0.0,7.0,5.0,0.0,0.0,0.0,7.0,,,54.0,54.0,118.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,18,50,13,6,7,0.0,6.0,4.0,0.0,0.0,0.0,6.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,19,55,18,9,9,0.0,8.0,5.0,0.0,0.0,0.0,8.0,,,54.0,53.0,152.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,source_union,-1,28,0,0,0,,,,,,,,,,,,,
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,graph_ward,-1,66,35,30,5,0.0,4.0,4.0,0.0,0.0,0.0,4.0,8.0,136.0,,,,
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,0,53,16,8,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,53.0,151.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,1,50,14,7,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,122.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,2,55,18,10,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,118.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,3,53,16,8,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,4,53,11,5,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,5,60,18,9,9,0.0,8.0,7.0,0.0,0.0,0.0,8.0,,,54.0,54.0,116.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,6,60,18,9,9,0.0,8.0,7.0,0.0,0.0,0.0,8.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,7,55,16,10,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,121.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,8,52,14,9,5,0.0,5.0,4.0,0.0,0.0,0.0,5.0,,,54.0,54.0,119.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,9,55,18,10,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,53.0,151.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,10,49,13,6,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,53.0,148.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,11,50,14,7,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,12,53,16,8,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,121.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,13,59,16,9,7,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,127.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,14,52,15,8,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,119.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,15,59,16,9,7,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,110.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,16,55,13,7,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,17,58,17,9,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,118.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,18,49,13,6,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,19,54,18,9,9,0.0,8.0,6.0,0.0,0.0,0.0,8.0,,,54.0,53.0,152.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,31,0,0,0,,,,,,,,,,,,,
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,69,35,30,5,0.0,4.0,4.0,0.0,0.0,0.0,4.0,8.0,136.0,,,,
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,58,16,8,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,53.0,151.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,55,14,7,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,122.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,60,18,10,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,118.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,58,16,8,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,58,11,5,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,65,18,9,9,0.0,8.0,7.0,0.0,0.0,0.0,8.0,,,54.0,54.0,116.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,65,18,9,9,0.0,8.0,7.0,0.0,0.0,0.0,8.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,60,16,10,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,121.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,57,14,9,5,0.0,5.0,4.0,0.0,0.0,0.0,5.0,,,54.0,54.0,119.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,60,18,10,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,53.0,151.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,54,13,6,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,53.0,148.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,55,14,7,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,58,16,8,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,121.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,64,16,9,7,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,127.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,57,15,8,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,119.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,64,16,9,7,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,110.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,60,13,7,6,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,54.0,115.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,63,17,9,8,0.0,7.0,6.0,0.0,0.0,0.0,7.0,,,54.0,54.0,118.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,54,13,6,7,0.0,6.0,5.0,0.0,0.0,0.0,6.0,,,54.0,53.0,147.0,0.0
+FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,59,18,9,9,0.0,8.0,6.0,0.0,0.0,0.0,8.0,,,54.0,53.0,152.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,source_union,-1,33,0,0,0,,,,,,,,,,,,,
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,graph_ward,-1,93,47,40,7,0.0,1.0,2.0,0.0,0.0,0.0,3.0,8.0,184.0,,,,
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,0,186,56,14,42,0.0,16.0,12.0,0.0,0.0,0.0,26.0,,,72.0,69.0,257.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,1,151,45,14,31,0.0,11.0,13.0,0.0,0.0,0.0,23.0,,,72.0,70.0,230.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,2,192,57,18,39,0.0,14.0,16.0,0.0,0.0,0.0,29.0,,,72.0,69.0,263.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,3,162,51,20,31,0.0,14.0,9.0,0.0,0.0,0.0,22.0,,,72.0,69.0,263.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,4,183,60,17,43,0.0,17.0,13.0,0.0,0.0,0.0,30.0,,,72.0,69.0,265.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,5,169,52,19,33,0.0,12.0,11.0,0.0,0.0,0.0,23.0,,,72.0,70.0,236.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,6,182,54,15,39,0.0,12.0,13.0,0.0,0.0,0.0,25.0,,,72.0,70.0,231.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,7,160,47,19,28,0.0,14.0,6.0,0.0,0.0,0.0,19.0,,,72.0,69.0,264.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,8,156,51,18,33,0.0,11.0,9.0,0.0,0.0,0.0,19.0,,,72.0,68.0,284.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,9,182,56,18,38,0.0,13.0,10.0,0.0,0.0,0.0,23.0,,,72.0,70.0,223.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,10,173,48,15,33,0.0,12.0,12.0,0.0,0.0,0.0,24.0,,,72.0,70.0,240.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,11,154,50,16,34,0.0,12.0,12.0,0.0,0.0,0.0,23.0,,,72.0,70.0,224.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,12,177,61,21,40,0.0,15.0,12.0,0.0,0.0,0.0,25.0,,,72.0,70.0,235.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,13,164,52,13,39,0.0,18.0,7.0,0.0,0.0,0.0,25.0,,,72.0,68.0,278.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,14,179,52,19,33,0.0,11.0,12.0,0.0,0.0,0.0,23.0,,,72.0,69.0,267.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,15,165,51,13,38,0.0,13.0,13.0,0.0,0.0,0.0,25.0,,,72.0,70.0,233.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,16,167,53,18,35,0.0,13.0,11.0,0.0,0.0,0.0,24.0,,,72.0,70.0,234.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,17,171,55,14,41,0.0,13.0,13.0,0.0,0.0,0.0,25.0,,,72.0,69.0,256.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,18,142,43,11,32,0.0,9.0,10.0,0.0,0.0,0.0,18.0,,,72.0,70.0,231.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nominal,0.0,0.0,four,spectral_cop,19,165,51,13,38,0.0,16.0,10.0,0.0,0.0,0.0,26.0,,,72.0,70.0,233.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,source_union,-1,33,0,0,0,,,,,,,,,,,,,
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,graph_ward,-1,94,47,40,7,0.0,1.0,3.0,0.0,0.0,0.0,4.0,8.0,184.0,,,,
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,0,193,56,14,42,0.0,16.0,20.0,0.0,0.0,0.0,33.0,,,72.0,69.0,257.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,1,155,45,14,31,0.0,11.0,19.0,0.0,0.0,0.0,27.0,,,72.0,70.0,230.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,2,197,57,18,39,0.0,14.0,21.0,0.0,0.0,0.0,34.0,,,72.0,69.0,263.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,3,169,51,20,31,0.0,14.0,15.0,0.0,0.0,0.0,27.0,,,72.0,69.0,263.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,4,190,60,17,43,0.0,17.0,21.0,0.0,0.0,0.0,37.0,,,72.0,69.0,265.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,5,175,52,19,33,0.0,12.0,17.0,0.0,0.0,0.0,27.0,,,72.0,70.0,236.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,6,190,54,15,39,0.0,12.0,21.0,0.0,0.0,0.0,32.0,,,72.0,70.0,231.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,7,165,47,19,28,0.0,14.0,10.0,0.0,0.0,0.0,22.0,,,72.0,69.0,264.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,8,161,51,18,33,0.0,11.0,18.0,0.0,0.0,0.0,28.0,,,72.0,68.0,284.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,9,186,56,18,38,0.0,13.0,21.0,0.0,0.0,0.0,31.0,,,72.0,70.0,223.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,10,179,48,15,33,0.0,12.0,19.0,0.0,0.0,0.0,28.0,,,72.0,70.0,240.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,11,161,50,16,34,0.0,12.0,17.0,0.0,0.0,0.0,26.0,,,72.0,70.0,224.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,12,184,61,21,40,0.0,15.0,20.0,0.0,0.0,0.0,32.0,,,72.0,70.0,235.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,13,169,52,13,39,0.0,18.0,15.0,0.0,0.0,0.0,30.0,,,72.0,68.0,278.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,14,185,52,19,33,0.0,11.0,19.0,0.0,0.0,0.0,29.0,,,72.0,69.0,267.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,15,169,51,13,38,0.0,13.0,23.0,0.0,0.0,0.0,32.0,,,72.0,70.0,233.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,16,173,53,18,35,0.0,13.0,16.0,0.0,0.0,0.0,29.0,,,72.0,70.0,234.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,17,176,55,14,41,0.0,13.0,23.0,0.0,0.0,0.0,32.0,,,72.0,69.0,256.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,18,146,43,11,32,0.0,9.0,17.0,0.0,0.0,0.0,25.0,,,72.0,70.0,231.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,19,169,51,13,38,0.0,16.0,17.0,0.0,0.0,0.0,31.0,,,72.0,70.0,233.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,33,0,0,0,,,,,,,,,,,,,
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,94,47,40,7,0.0,1.0,3.0,0.0,0.0,0.0,4.0,8.0,184.0,,,,
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,200,56,14,42,0.0,17.0,20.0,0.0,0.0,0.0,34.0,,,72.0,69.0,257.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,162,45,14,31,0.0,12.0,19.0,0.0,0.0,0.0,28.0,,,72.0,70.0,230.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,205,57,18,39,0.0,15.0,21.0,0.0,0.0,0.0,35.0,,,72.0,69.0,263.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,168,51,20,31,0.0,14.0,15.0,0.0,0.0,0.0,27.0,,,72.0,69.0,263.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,189,60,17,43,0.0,17.0,21.0,0.0,0.0,0.0,37.0,,,72.0,69.0,265.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,174,52,19,33,0.0,12.0,17.0,0.0,0.0,0.0,27.0,,,72.0,70.0,236.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,189,54,15,39,0.0,13.0,21.0,0.0,0.0,0.0,33.0,,,72.0,70.0,231.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,164,47,19,28,0.0,14.0,10.0,0.0,0.0,0.0,22.0,,,72.0,69.0,264.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,160,51,18,33,0.0,11.0,18.0,0.0,0.0,0.0,28.0,,,72.0,68.0,284.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,185,56,18,38,0.0,13.0,21.0,0.0,0.0,0.0,31.0,,,72.0,70.0,223.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,178,48,15,33,0.0,13.0,19.0,0.0,0.0,0.0,29.0,,,72.0,70.0,240.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,169,50,16,34,0.0,12.0,17.0,0.0,0.0,0.0,26.0,,,72.0,70.0,224.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,192,61,21,40,0.0,16.0,20.0,0.0,0.0,0.0,33.0,,,72.0,70.0,235.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,168,52,13,39,0.0,18.0,15.0,0.0,0.0,0.0,30.0,,,72.0,68.0,278.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,184,52,19,33,0.0,11.0,19.0,0.0,0.0,0.0,29.0,,,72.0,69.0,267.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,176,51,13,38,0.0,13.0,23.0,0.0,0.0,0.0,32.0,,,72.0,70.0,233.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,172,53,18,35,0.0,13.0,16.0,0.0,0.0,0.0,29.0,,,72.0,70.0,234.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,175,55,14,41,0.0,13.0,23.0,0.0,0.0,0.0,32.0,,,72.0,69.0,256.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,153,43,11,32,0.0,9.0,17.0,0.0,0.0,0.0,25.0,,,72.0,70.0,231.0,0.0
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,168,51,13,38,0.0,16.0,17.0,0.0,0.0,0.0,31.0,,,72.0,70.0,233.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,graph_ward,-1,24,17,16,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,8.0,56.0,,,,
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,0,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,1,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,2,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,3,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,4,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,5,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,6,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,7,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,8,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,9,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,10,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,11,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,12,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,13,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,14,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,15,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,16,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,17,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,18,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nominal,0.0,0.0,four,spectral_cop,19,9,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,graph_ward,-1,24,17,16,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,56.0,,,,
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,0,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,1,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,2,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,3,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,4,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,5,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,6,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,7,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,8,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,9,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,10,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,11,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,12,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,13,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,14,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,15,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,16,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,17,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,18,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,nu_5pct,0.0,0.05,four,spectral_cop,19,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,24,17,16,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,56.0,,,,
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+FI::Östersundom | CLAY | ILOT,FI-CLAY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,graph_ward,-1,32,24,21,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,88.0,,,,
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,0,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,1,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,2,14,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,3,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,80.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,4,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,5,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,6,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,74.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,7,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,8,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,9,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,79.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,10,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,11,14,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,77.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,12,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,13,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,77.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,14,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,15,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,16,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,17,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,18,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,19,17,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,graph_ward,-1,36,24,21,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,88.0,,,,
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,0,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,1,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,2,18,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,3,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,80.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,4,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,5,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,6,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,74.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,7,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,8,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,9,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,79.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,10,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,11,18,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,77.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,12,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,13,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,77.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,14,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,15,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,16,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,17,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,18,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,19,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,36,24,21,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,88.0,,,,
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,18,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,80.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,74.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,79.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,18,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,77.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,77.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P07 | LOAM | g | sigma3=100.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,21,7,3,4,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,source_union,-1,52,0,0,0,,,,,,,,,,,,,
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,graph_ward,-1,67,25,22,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,8.0,88.0,,,,
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,0,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,1,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,2,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,75.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,3,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,4,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,5,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,72.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,6,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,81.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,7,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,8,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,9,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,81.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,10,57,5,1,4,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,11,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,12,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,79.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,13,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,14,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,78.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,15,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,16,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,17,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,18,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,19,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,source_union,-1,52,0,0,0,,,,,,,,,,,,,
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,graph_ward,-1,67,25,22,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,8.0,88.0,,,,
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,0,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,1,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,2,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,75.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,3,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,4,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,5,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,72.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,6,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,81.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,7,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,8,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,9,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,81.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,10,57,5,1,4,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,11,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,12,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,79.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,13,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,14,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,78.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,15,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,16,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,17,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,18,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,19,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,52,0,0,0,,,,,,,,,,,,,
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,67,25,22,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,8.0,88.0,,,,
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,75.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,72.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,81.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,81.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,57,5,1,4,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,63,9,3,6,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,79.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,78.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,61,7,3,4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,58,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,0.0
+P09 | LOAM | m | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,60,7,2,5,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,76.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,source_union,-1,25,0,0,0,,,,,,,,,,,,,
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,graph_ward,-1,49,29,25,4,0.0,2.0,1.0,0.0,0.0,0.0,3.0,8.0,88.0,,,,
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,0,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,1,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,2,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,3,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,4,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,5,29,7,2,5,0.0,2.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,6,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,7,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,8,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,9,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,10,29,7,2,5,0.0,2.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,11,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,12,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,13,29,7,2,5,0.0,2.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,14,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,15,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,16,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,17,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,18,28,5,2,3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nominal,0.0,0.0,four,spectral_cop,19,29,7,2,5,0.0,2.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,source_union,-1,25,0,0,0,,,,,,,,,,,,,
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,graph_ward,-1,49,29,25,4,0.0,2.0,1.0,0.0,0.0,0.0,3.0,8.0,88.0,,,,
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,0,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,1,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,2,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,3,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,4,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,5,32,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,6,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,7,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,8,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,9,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,76.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,10,32,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,11,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,12,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,13,32,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,14,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,72.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,15,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,16,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,75.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,17,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,18,31,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,72.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,nu_5pct,0.0,0.05,four,spectral_cop,19,32,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,25,0,0,0,,,,,,,,,,,,,
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,49,29,25,4,0.0,2.0,1.0,0.0,0.0,0.0,3.0,8.0,88.0,,,,
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,29,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,76.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,29,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,73.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,29,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,72.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,75.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,74.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,28,5,2,3,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,,36.0,36.0,72.0,0.0
+P15 | LOAM | l | sigma3=50.0,EXPORT,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,29,7,2,5,0.0,2.0,3.0,0.0,0.0,0.0,4.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,18,15,13,2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,48.0,,,,
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,18,15,13,2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,48.0,,,,
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,18,15,13,2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,48.0,,,,
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,5,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,source_union,-1,15,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,30,21,19,2,0.0,2.0,1.0,0.0,0.0,0.0,2.0,8.0,80.0,,,,
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,15,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,15,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,30,21,19,2,0.0,2.0,2.0,0.0,0.0,0.0,2.0,8.0,80.0,,,,
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,15,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,30,21,19,2,0.0,2.0,2.0,0.0,0.0,0.0,2.0,8.0,80.0,,,,
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,15,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,source_union,-1,11,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,27,19,18,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,11,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,11,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,27,19,18,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,11,0,0,0,,,,,,,,,,,,,
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,27,19,18,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P01 | LOAM | pr,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,11,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,34,23,21,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,80.0,,,,
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,35,23,21,2,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,80.0,,,,
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,35,23,21,2,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,80.0,,,,
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,72.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,75.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,36.0
+PRIMARY::P06 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,17,3,1,2,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,36.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,source_union,-1,8,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,29,20,19,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,72.0,,,,
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,8,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,29,20,19,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,72.0,,,,
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,8,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,29,20,19,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,72.0,,,,
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,11,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,54.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,17,15,13,2,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,56.0,,,,
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,17,15,13,2,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,56.0,,,,
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,17,15,13,2,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,56.0,,,,
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | CLAY | J,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,5,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,18,14,13,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,48.0,,,,
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,18,14,13,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,48.0,,,,
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,5,0,0,0,,,,,,,,,,,,,
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,18,14,13,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,48.0,,,,
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P08 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,6,1,1,0,,,,,,,,,,18.0,18.0,36.0,72.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,31,23,21,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,88.0,,,,
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,78.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,31,23,21,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,88.0,,,,
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,78.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,31,23,21,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,88.0,,,,
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,78.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,74.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,11,3,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,72.0,0.0
+PRIMARY::P13 | CLAY | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,13,5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,73.0,0.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,source_union,-1,37,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,71,33,31,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,112.0,,,,
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,66,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,77.0,54.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,68,13,1,12,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,35.0,105.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,60,11,1,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,75.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,71,15,0,15,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,35.0,105.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,62,13,2,11,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,64,15,2,13,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,70,15,1,14,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,71,17,2,15,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,79.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,69,13,0,13,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,35.0,102.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,64,13,2,11,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,54.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,70,15,1,14,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,35.0,109.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,64,15,2,13,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,62,13,1,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,78.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,64,15,2,13,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,73.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,69,15,1,14,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,35.0,104.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,62,13,1,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,68,13,2,11,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,74.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,80.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,62,13,1,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,36.0,36.0,81.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,79.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,37,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,70,33,31,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,112.0,,,,
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,67,15,2,13,0.0,0.0,4.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,54.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,68,13,1,12,0.0,0.0,3.0,0.0,0.0,0.0,3.0,,,36.0,35.0,105.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,61,11,1,10,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,71,15,0,15,0.0,0.0,3.0,0.0,0.0,0.0,3.0,,,36.0,35.0,105.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,63,13,2,11,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,65,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,78.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,70,15,1,14,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,71,17,2,15,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,69,13,0,13,0.0,0.0,3.0,0.0,0.0,0.0,3.0,,,36.0,35.0,102.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,65,13,2,11,0.0,0.0,4.0,0.0,0.0,0.0,4.0,,,36.0,36.0,74.0,54.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,70,15,1,14,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,35.0,109.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,65,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,65,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,69,15,1,14,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,35.0,104.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,69,13,2,11,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,64,13,1,12,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,80.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,81.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,64,13,1,12,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,37,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,70,33,31,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,112.0,,,,
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,67,15,2,13,0.0,0.0,4.0,0.0,0.0,0.0,4.0,,,36.0,36.0,77.0,54.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,68,13,1,12,0.0,0.0,3.0,0.0,0.0,0.0,3.0,,,36.0,35.0,105.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,61,11,1,10,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,75.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,71,15,0,15,0.0,0.0,3.0,0.0,0.0,0.0,3.0,,,36.0,35.0,105.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,63,13,2,11,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,65,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,78.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,70,15,1,14,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,71,17,2,15,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,69,13,0,13,0.0,0.0,3.0,0.0,0.0,0.0,3.0,,,36.0,35.0,102.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,65,13,2,11,0.0,0.0,4.0,0.0,0.0,0.0,4.0,,,36.0,36.0,74.0,54.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,70,15,1,14,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,35.0,109.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,65,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,78.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,65,15,2,13,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,73.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,69,15,1,14,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,35.0,104.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,76.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,69,13,2,11,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,74.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,64,13,1,12,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,80.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,63,13,1,12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,,36.0,36.0,81.0,56.0
+PRIMARY::P13 | LOAM | C,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,64,13,1,12,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,,36.0,36.0,79.0,56.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,22,17,14,3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,22,17,14,3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,9,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,22,17,14,3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | f,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,9,1,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,,18.0,18.0,36.0,0.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,source_union,-1,11,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,graph_ward,-1,29,21,20,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,64.0,,,,
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,0,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,1,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,2,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,3,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,4,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,5,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,6,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,7,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,8,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,9,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,10,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,11,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,12,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,13,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,14,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,15,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,16,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,17,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,18,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nominal,0.0,0.0,four,spectral_cop,19,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,source_union,-1,11,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,graph_ward,-1,29,21,20,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,0,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,1,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,2,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,3,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,4,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,5,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,6,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,7,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,8,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,9,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,10,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,11,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,12,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,13,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,14,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,15,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,16,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,17,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,18,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,nu_5pct,0.0,0.05,four,spectral_cop,19,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,source_union,-1,11,0,0,0,,,,,,,,,,,,,
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,graph_ward,-1,29,21,20,1,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8.0,64.0,,,,
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,0,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,1,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,2,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,3,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,4,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,5,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,6,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,7,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,8,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,9,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,10,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,11,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,12,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,13,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,14,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,15,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,16,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,17,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,18,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0
+PRIMARY::P13 | LOAM | g,PRIMARY,cv_10pct_nu_5pct,0.1,0.05,four,spectral_cop,19,15,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,18.0,18.0,36.0,18.0

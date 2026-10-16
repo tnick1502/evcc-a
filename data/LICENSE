@@ -1,0 +1,13 @@
+The files in this directory, except raw/fi_clay/, and the result tables in
+../results/ are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Nikita Tishin and Oleg Ozmidov
+
+raw/fi_clay/Database_FI_CLAY_14_856_version2.xlsx is the unchanged FI-CLAY
+database, version 2, by Monica Susanne Löfman and Leena Korkiala-Tanttu,
+published under CC BY 4.0 at https://doi.org/10.5281/zenodo.5040083.
+The FI-CLAY rows in processed/ are a selection of its records with two
+derived columns: rho = unit weight / 9.80665 and alpha = Cc / (1 + e0).

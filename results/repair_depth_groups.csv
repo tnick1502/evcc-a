@@ -1,0 +1,5 @@
+mode,group,n,upper_n,lower_n,depth_min,depth_max,source_units,compliant
+compact,0,6,3,3,41.0,74.3,U008;U010;U013,True
+compact,1,11,3,8,42.0,84.5,U008;U010;U013;U014,True
+repair,0,11,0,11,67.0,84.5,U013;U014,True
+repair,1,6,6,0,41.0,53.0,U008;U010,True

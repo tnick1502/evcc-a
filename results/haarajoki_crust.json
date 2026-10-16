@@ -1,0 +1,14 @@
+{
+  "source_database_crust_records": 9,
+  "ordinary_ilot_records": 7,
+  "complete_positive_property_records": 5,
+  "incomplete_property_records": 4,
+  "active_eligible_crust_records": 5,
+  "missing_property_counts": {
+    "Void ratio": 0,
+    "Compression index": 0,
+    "Unit weight (kN/m3)": 0,
+    "Water content (%)": 0,
+    "Undrained shear stregth (fall cone) (kPa)": 4
+  }
+}

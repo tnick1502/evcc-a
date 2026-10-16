@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Local output of evcca-reproduce, evcca-figures and notebook runs
+runs/
+
+# Not part of the release
+/manuscript/
+/local_sources/
+/validation/

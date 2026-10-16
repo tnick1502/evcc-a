@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article below."
+type: software
+title: "EVCC-A: grouping of soil test results under variability and borehole-continuity constraints"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/tnick1502/evcc-a"
+authors:
+  - family-names: Tishin
+    given-names: Nikita
+    affiliation: Bauman Moscow State Technical University
+    email: itishinn@gmail.com
+    orcid: "https://orcid.org/0009-0008-2484-591X"
+  - family-names: Ozmidov
+    given-names: Oleg
+    affiliation: JSC MOSTDORGEOTREST
+keywords:
+  - geotechnical data
+  - engineering-geological element
+  - constrained clustering
+  - set partitioning
+  - mixed-integer programming
+preferred-citation:
+  type: article
+  status: submitted
+  title: "Certified grouping of soil test results under variability and borehole continuity constraints"
+  journal: "Applied Computing and Geosciences"
+  year: 2026
+  authors:
+    - family-names: Tishin
+      given-names: Nikita
+      orcid: "https://orcid.org/0009-0008-2484-591X"
+    - family-names: Ozmidov
+      given-names: Oleg

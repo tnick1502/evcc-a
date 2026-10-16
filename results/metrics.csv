@@ -1,0 +1,105 @@
+n,A,K,review_budget,budget_excess,assigned_n,strict_feasible,strict_accepted_n,D,status,scope,optimal,seconds,candidate_count,order,mip_gap,initial_groups,initial_ari,B,context_id,dataset,site_id,mode,method,profile,cv_reserve,nu_reserve
+24,18,1,2,16,6,False,0,122,optimal,ordered_alpha|tie:rho,True,0.011119011000118917,2,alpha|tie:rho,,3,0.0,0.0061837357246500345,FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,Haapa-Kimola,compact,ordered,four,0.0,0.0
+24,18,1,2,16,6,False,0,122,optimal,complete_geometric_space,True,0.00848999299978459,2,,0.0,3,0.0,0.0061837357246500345,FI::Haapa-Kimola | CLAY | ILOT,FI-CLAY,Haapa-Kimola,compact,evcca,four,0.0,0.0
+21,5,1,2,3,16,False,0,90,optimal,ordered_alpha|tie:rho,True,0.5893232670005091,513,alpha|tie:rho,,3,0.05714285714285714,0.017052864011028717,FI::Haarajoki | CLAY | ILOT,FI-CLAY,Haarajoki,compact,ordered,four,0.0,0.0
+21,5,1,2,3,16,False,0,90,optimal,complete_geometric_space,True,0.1661457780001001,513,,0.0,3,0.05714285714285714,0.017052864011028717,FI::Haarajoki | CLAY | ILOT,FI-CLAY,Haarajoki,compact,evcca,four,0.0,0.0
+18,11,1,1,10,7,False,0,63,optimal,ordered_alpha|tie:rho,True,0.010993179000251985,4,alpha|tie:rho,,3,-0.046153846153846156,0.005540691652961904,FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,Söderkulla-Nikkilä,compact,ordered,four,0.0,0.0
+18,11,1,1,10,7,False,0,63,optimal,complete_subset_space,True,0.009520072000668733,4,,0.0,3,-0.046153846153846156,0.005540691652961904,FI::Söderkulla-Nikkilä | CLAY | ILOT,FI-CLAY,Söderkulla-Nikkilä,compact,evcca,four,0.0,0.0
+24,1,3,2,0,23,True,23,133,optimal,ordered_depth,True,1.966056746000504,2001,depth,,2,0.1181896800230614,0.011917636828608792,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,"Tolsa, Kirkkonummi",compact,ordered,four,0.0,0.0
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,2.8382007539994447,2001,,0.0,2,0.41101152368758004,0.0227857780462419,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",FI-CLAY,"Tolsa, Kirkkonummi",compact,evcca,four,0.0,0.0
+8,8,0,1,7,0,False,0,9,no_supported_group,ordered_alpha|tie:rho,True,0.002241475000118953,0,alpha|tie:rho,,3,0.0,0.0,FI::Östersundom | CLAY | ILOT,FI-CLAY,Östersundom,compact,ordered,four,0.0,0.0
+8,8,0,1,7,0,False,0,9,no_supported_group,complete_subset_space,True,1.1763999282266013e-05,0,,,3,0.0,0.0,FI::Östersundom | CLAY | ILOT,FI-CLAY,Östersundom,compact,evcca,four,0.0,0.0
+12,0,1,1,0,12,True,12,36,optimal,ordered_rho|tie:e0,True,2.6299446790008005,2061,rho|tie:e0,,2,0.0,0.008341162287255037,P07 | LOAM | g | sigma3=100.0,EXPORT,P07,compact,ordered,four,0.0,0.0
+12,0,1,1,0,12,True,12,36,optimal,global_one_group_bound,True,5.2024999604327604e-05,2061,,,2,0.0,0.008341162287255037,P07 | LOAM | g | sigma3=100.0,EXPORT,P07,compact,evcca,four,0.0,0.0
+12,0,2,1,0,12,True,12,26,optimal,ordered_initial_ige|depth,True,0.7737071990004551,719,initial_ige|depth,,9,0.1437125748502994,0.012296032632460697,P09 | LOAM | m | sigma3=50.0,EXPORT,P09,compact,ordered,four,0.0,0.0
+12,0,2,1,0,12,True,12,26,optimal,complete_subset_space,True,0.009057281000423245,719,,,9,0.1437125748502994,0.012296032632460697,P09 | LOAM | m | sigma3=50.0,EXPORT,P09,compact,evcca,four,0.0,0.0
+12,4,1,1,3,8,False,0,22,optimal,ordered_rho|tie:e0,True,0.014335253999888664,15,rho|tie:e0,,5,0.22563176895306858,0.013468501518606034,P15 | LOAM | l | sigma3=50.0,EXPORT,P15,compact,ordered,four,0.0,0.0
+12,4,1,1,3,8,False,0,22,optimal,complete_subset_space,True,0.008152677999532898,15,,0.0,5,0.22563176895306858,0.013468501518606034,P15 | LOAM | l | sigma3=50.0,EXPORT,P15,compact,evcca,four,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,ordered_rho|tie:e0,True,0.003506457000185037,1,rho|tie:e0,,2,0.5050505050505051,0.009036823416498535,PRIMARY::P01 | CLAY | C,PRIMARY,P01,compact,ordered,four,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,complete_subset_space,True,0.0063249009999708505,1,,0.0,2,0.5050505050505051,0.009036823416498535,PRIMARY::P01 | CLAY | C,PRIMARY,P01,compact,evcca,four,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,ordered_rho|tie:e0,True,0.006951686999855156,1,rho|tie:e0,,2,0.5050505050505051,0.009036823416498535,PRIMARY::P01 | CLAY | C,PRIMARY,P01,repair,ordered,four,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,complete_subset_space,True,0.011630823999439599,1,,0.0,2,0.5050505050505051,0.009036823416498535,PRIMARY::P01 | CLAY | C,PRIMARY,P01,repair,evcca,four,0.0,0.0
+11,2,1,1,1,9,False,0,20,optimal,ordered_rho|tie:e0,True,0.09631028900003002,88,rho|tie:e0,,4,0.3327556325823224,0.022879106156734313,PRIMARY::P01 | CLAY | J,PRIMARY,P01,compact,ordered,four,0.0,0.0
+11,2,1,1,1,9,False,0,20,optimal,complete_subset_space,True,0.02602629800003342,88,,0.0,4,0.3327556325823224,0.022879106156734313,PRIMARY::P01 | CLAY | J,PRIMARY,P01,compact,evcca,four,0.0,0.0
+11,2,1,1,1,9,False,0,20,optimal,ordered_rho|tie:e0,True,0.10360826299984183,88,rho|tie:e0,,4,0.3327556325823224,0.022879106156734313,PRIMARY::P01 | CLAY | J,PRIMARY,P01,repair,ordered,four,0.0,0.0
+11,2,1,1,1,9,False,0,20,optimal,complete_subset_space,True,0.03822898000089481,88,,0.0,4,0.3327556325823224,0.022879106156734313,PRIMARY::P01 | CLAY | J,PRIMARY,P01,repair,evcca,four,0.0,0.0
+10,4,1,1,3,6,False,0,15,optimal,ordered_rho|tie:e0,True,0.005149866000465408,1,rho|tie:e0,,3,0.1337386018237082,0.014774222700489264,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,compact,ordered,four,0.0,0.0
+10,4,1,1,3,6,False,0,15,optimal,complete_subset_space,True,0.006532610000249406,1,,0.0,3,0.1337386018237082,0.014774222700489264,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,compact,evcca,four,0.0,0.0
+10,4,1,1,3,6,False,0,15,optimal,ordered_rho|tie:e0,True,0.0075595589996737544,1,rho|tie:e0,,3,0.1337386018237082,0.014774222700489264,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,repair,ordered,four,0.0,0.0
+10,4,1,1,3,6,False,0,15,optimal,complete_subset_space,True,0.010322955999981787,1,,0.0,3,0.1337386018237082,0.014774222700489264,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,repair,evcca,four,0.0,0.0
+12,0,2,1,0,12,True,12,36,optimal,ordered_PC2,True,0.7780989240000054,593,PC2,,2,-0.1,0.0052249563439189,PRIMARY::P06 | CLAY | C,PRIMARY,P06,compact,ordered,four,0.0,0.0
+12,0,2,1,0,12,True,12,20,optimal,complete_subset_space,True,0.05045259599955898,593,,,2,0.3888888888888889,0.0038717781366300105,PRIMARY::P06 | CLAY | C,PRIMARY,P06,compact,evcca,four,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,ordered_depth,True,0.9044541209996169,593,depth,,2,1.0,0.005443278490525085,PRIMARY::P06 | CLAY | C,PRIMARY,P06,repair,ordered,four,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,global_zero_edit_bound,True,0.0003113610000582412,593,,,2,1.0,0.005443278490525085,PRIMARY::P06 | CLAY | C,PRIMARY,P06,repair,evcca,four,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,ordered_rho|tie:e0,True,0.14856203800081857,136,rho|tie:e0,,2,-0.006535947712418301,0.005522643634719022,PRIMARY::P08 | CLAY | C,PRIMARY,P08,compact,ordered,four,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,complete_subset_space,True,0.053698886999882234,136,,0.0,2,-0.006535947712418301,0.005522643634719022,PRIMARY::P08 | CLAY | C,PRIMARY,P08,compact,evcca,four,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,ordered_rho|tie:e0,True,0.1474636120001378,136,rho|tie:e0,,2,-0.006535947712418301,0.005522643634719022,PRIMARY::P08 | CLAY | C,PRIMARY,P08,repair,ordered,four,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,complete_subset_space,True,0.052995226999883016,136,,0.0,2,-0.006535947712418301,0.005522643634719022,PRIMARY::P08 | CLAY | C,PRIMARY,P08,repair,evcca,four,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,ordered_rho|tie:e0,True,0.011068372000409,8,rho|tie:e0,,2,0.0,0.002045486851896217,PRIMARY::P08 | CLAY | J,PRIMARY,P08,compact,ordered,four,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,complete_subset_space,True,0.007624101000146766,8,,0.0,2,0.0,0.002045486851896217,PRIMARY::P08 | CLAY | J,PRIMARY,P08,compact,evcca,four,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,ordered_rho|tie:e0,True,0.012922799000079976,8,rho|tie:e0,,2,0.0,0.002045486851896217,PRIMARY::P08 | CLAY | J,PRIMARY,P08,repair,ordered,four,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,complete_subset_space,True,0.010954145999676257,8,,0.0,2,0.0,0.002045486851896217,PRIMARY::P08 | CLAY | J,PRIMARY,P08,repair,evcca,four,0.0,0.0
+8,1,1,1,0,7,True,7,7,optimal,ordered_rho|tie:e0,True,0.006569836999915424,6,rho|tie:e0,,2,0.46153846153846156,0.007212427039516475,PRIMARY::P08 | LOAM | C,PRIMARY,P08,compact,ordered,four,0.0,0.0
+8,1,1,1,0,7,True,7,7,optimal,complete_subset_space,True,0.007428926999637042,6,,0.0,2,0.46153846153846156,0.007212427039516475,PRIMARY::P08 | LOAM | C,PRIMARY,P08,compact,evcca,four,0.0,0.0
+8,1,1,1,0,7,True,7,7,optimal,ordered_rho|tie:e0,True,0.009437833999982104,6,rho|tie:e0,,2,0.46153846153846156,0.007212427039516475,PRIMARY::P08 | LOAM | C,PRIMARY,P08,repair,ordered,four,0.0,0.0
+8,1,1,1,0,7,True,7,7,optimal,complete_subset_space,True,0.010143796999727783,6,,0.0,2,0.46153846153846156,0.007212427039516475,PRIMARY::P08 | LOAM | C,PRIMARY,P08,repair,evcca,four,0.0,0.0
+12,0,1,1,0,12,True,12,36,optimal,ordered_rho|tie:e0,True,2.3110808080000425,2407,rho|tie:e0,,2,0.0,0.005572964161283071,PRIMARY::P13 | CLAY | C,PRIMARY,P13,compact,ordered,four,0.0,0.0
+12,0,1,1,0,12,True,12,36,optimal,global_one_group_bound,True,4.510300004767487e-05,2407,,,2,0.0,0.005572964161283071,PRIMARY::P13 | CLAY | C,PRIMARY,P13,compact,evcca,four,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,ordered_depth,True,2.271488352000233,2407,depth,,2,1.0,0.004825277847452233,PRIMARY::P13 | CLAY | C,PRIMARY,P13,repair,ordered,four,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,global_zero_edit_bound,True,0.00022340000032272656,2407,,,2,1.0,0.004825277847452233,PRIMARY::P13 | CLAY | C,PRIMARY,P13,repair,evcca,four,0.0,0.0
+17,0,2,1,0,17,True,17,59,optimal,ordered_modulus|tie:rho,True,16.575002943000072,20071,modulus|tie:rho,,4,0.14601958280119198,0.011211152334670429,PRIMARY::P13 | LOAM | C,PRIMARY,P13,compact,ordered,four,0.0,0.0
+17,0,2,1,0,17,True,17,59,optimal,complete_subset_space,True,0.46994666599948687,20071,,,4,0.14601958280119198,0.010915810622042128,PRIMARY::P13 | LOAM | C,PRIMARY,P13,compact,evcca,four,0.0,0.0
+17,0,2,1,0,17,True,17,39,optimal,ordered_PC2,True,17.456088700999317,20071,PC2,,4,0.4355044699872286,0.011645850705088232,PRIMARY::P13 | LOAM | C,PRIMARY,P13,repair,ordered,four,0.0,0.0
+17,0,2,1,0,17,True,17,39,optimal,complete_subset_space,True,0.5472799359995406,20071,,,4,0.4355044699872286,0.011645850705088232,PRIMARY::P13 | LOAM | C,PRIMARY,P13,repair,evcca,four,0.0,0.0
+9,1,1,1,0,8,True,8,15,optimal,ordered_rho|tie:e0,True,0.06303884099997958,37,rho|tie:e0,,3,0.27807486631016043,0.008369496937071032,PRIMARY::P13 | LOAM | f,PRIMARY,P13,compact,ordered,four,0.0,0.0
+9,1,1,1,0,8,True,8,15,optimal,complete_subset_space,True,0.020631225000215636,37,,0.0,3,0.27807486631016043,0.008369496937071032,PRIMARY::P13 | LOAM | f,PRIMARY,P13,compact,evcca,four,0.0,0.0
+9,1,1,1,0,8,True,8,15,optimal,ordered_rho|tie:e0,True,0.04427412299992284,37,rho|tie:e0,,3,0.27807486631016043,0.008369496937071032,PRIMARY::P13 | LOAM | f,PRIMARY,P13,repair,ordered,four,0.0,0.0
+9,1,1,1,0,8,True,8,15,optimal,complete_subset_space,True,0.014297865999651549,37,,0.0,3,0.27807486631016043,0.008369496937071032,PRIMARY::P13 | LOAM | f,PRIMARY,P13,repair,evcca,four,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,ordered_rho|tie:e0,True,0.17817511900011596,180,rho|tie:e0,,3,0.12698412698412698,0.018267021817744748,PRIMARY::P13 | LOAM | g,PRIMARY,P13,compact,ordered,four,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,complete_subset_space,True,0.04845803399985016,180,,0.0,3,0.12698412698412698,0.018267021817744748,PRIMARY::P13 | LOAM | g,PRIMARY,P13,compact,evcca,four,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,ordered_rho|tie:e0,True,0.18196684600025037,180,rho|tie:e0,,3,0.12698412698412698,0.018267021817744748,PRIMARY::P13 | LOAM | g,PRIMARY,P13,repair,ordered,four,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,complete_subset_space,True,0.06977659499989386,180,,0.0,3,0.12698412698412698,0.018267021817744748,PRIMARY::P13 | LOAM | g,PRIMARY,P13,repair,evcca,four,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,ordered_rs|tie:rho,True,0.005249496000033105,1,rs|tie:rho,,2,0.5050505050505051,0.009500790164666727,PRIMARY::P01 | CLAY | C,PRIMARY,P01,compact,ordered,nine,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,complete_subset_space,True,0.0072284849993593525,1,,0.0,2,0.5050505050505051,0.009500790164666727,PRIMARY::P01 | CLAY | C,PRIMARY,P01,compact,evcca,nine,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,ordered_rs|tie:rho,True,0.00963833599962527,1,rs|tie:rho,,2,0.5050505050505051,0.009500790164666727,PRIMARY::P01 | CLAY | C,PRIMARY,P01,repair,ordered,nine,0.0,0.0
+8,2,1,1,1,6,False,0,8,optimal,complete_subset_space,True,0.012679618999754894,1,,0.0,2,0.5050505050505051,0.009500790164666727,PRIMARY::P01 | CLAY | C,PRIMARY,P01,repair,evcca,nine,0.0,0.0
+11,3,1,1,2,8,False,0,18,optimal,ordered_rs|tie:rho,True,0.11286890999963362,30,rs|tie:rho,,4,0.2749529190207156,0.01540331976454942,PRIMARY::P01 | CLAY | J,PRIMARY,P01,compact,ordered,nine,0.0,0.0
+11,3,1,1,2,8,False,0,18,optimal,complete_subset_space,True,0.012298087000090163,30,,0.0,4,0.2749529190207156,0.01540331976454942,PRIMARY::P01 | CLAY | J,PRIMARY,P01,compact,evcca,nine,0.0,0.0
+11,3,1,1,2,8,False,0,18,optimal,ordered_rs|tie:rho,True,0.09615084300003218,30,rs|tie:rho,,4,0.2749529190207156,0.01540331976454942,PRIMARY::P01 | CLAY | J,PRIMARY,P01,repair,ordered,nine,0.0,0.0
+11,3,1,1,2,8,False,0,18,optimal,complete_subset_space,True,0.014020425000126124,30,,0.0,4,0.2749529190207156,0.01540331976454942,PRIMARY::P01 | CLAY | J,PRIMARY,P01,repair,evcca,nine,0.0,0.0
+10,10,0,1,9,0,False,0,14,no_supported_group,ordered_rs|tie:rho,True,0.0032327059998351615,0,rs|tie:rho,,3,0.0,0.0,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,compact,ordered,nine,0.0,0.0
+10,10,0,1,9,0,False,0,14,no_supported_group,complete_subset_space,True,7.4569998105289415e-06,0,,,3,0.0,0.0,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,compact,evcca,nine,0.0,0.0
+10,10,0,1,9,0,False,0,14,no_supported_group,ordered_rs|tie:rho,True,0.01391554499969061,0,rs|tie:rho,,3,0.0,0.0,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,repair,ordered,nine,0.0,0.0
+10,10,0,1,9,0,False,0,14,no_supported_group,complete_subset_space,True,0.00024043900066317292,0,,,3,0.0,0.0,PRIMARY::P01 | LOAM | pr,PRIMARY,P01,repair,evcca,nine,0.0,0.0
+12,0,2,1,0,12,True,12,36,optimal,ordered_Ip|tie:rs,True,1.93061425399992,516,Ip|tie:rs,,2,-0.1,0.004872024552537289,PRIMARY::P06 | CLAY | C,PRIMARY,P06,compact,ordered,nine,0.0,0.0
+12,0,2,1,0,12,True,12,36,optimal,complete_subset_space,True,0.017967308000152116,516,,,2,-0.1,0.004872024552537289,PRIMARY::P06 | CLAY | C,PRIMARY,P06,compact,evcca,nine,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,ordered_depth,True,1.8349342419996901,516,depth,,2,1.0,0.0059247449109650595,PRIMARY::P06 | CLAY | C,PRIMARY,P06,repair,ordered,nine,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,global_zero_edit_bound,True,0.0002580480004326091,516,,,2,1.0,0.0059247449109650595,PRIMARY::P06 | CLAY | C,PRIMARY,P06,repair,evcca,nine,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,ordered_rs|tie:rho,True,0.4747133789996951,129,rs|tie:rho,,2,-0.006535947712418301,0.0034647878707987673,PRIMARY::P08 | CLAY | C,PRIMARY,P08,compact,ordered,nine,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,complete_subset_space,True,0.040035834000264,129,,0.0,2,-0.006535947712418301,0.0034647878707987673,PRIMARY::P08 | CLAY | C,PRIMARY,P08,compact,evcca,nine,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,ordered_rs|tie:rho,True,0.4542988000002879,129,rs|tie:rho,,2,-0.006535947712418301,0.0034647878707987673,PRIMARY::P08 | CLAY | C,PRIMARY,P08,repair,ordered,nine,0.0,0.0
+11,3,1,1,2,8,False,0,27,optimal,complete_subset_space,True,0.04452777700043953,129,,0.0,2,-0.006535947712418301,0.0034647878707987673,PRIMARY::P08 | CLAY | C,PRIMARY,P08,repair,evcca,nine,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,ordered_rs|tie:rho,True,0.012527883000075235,4,rs|tie:rho,,2,0.0,0.002760444359919534,PRIMARY::P08 | CLAY | J,PRIMARY,P08,compact,ordered,nine,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,complete_subset_space,True,0.006956150000405614,4,,0.0,2,0.0,0.002760444359919534,PRIMARY::P08 | CLAY | J,PRIMARY,P08,compact,evcca,nine,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,ordered_rs|tie:rho,True,0.014754155999980867,4,rs|tie:rho,,2,0.0,0.002760444359919534,PRIMARY::P08 | CLAY | J,PRIMARY,P08,repair,ordered,nine,0.0,0.0
+8,1,1,1,0,7,True,7,15,optimal,complete_subset_space,True,0.007242472000143607,4,,0.0,2,0.0,0.002760444359919534,PRIMARY::P08 | CLAY | J,PRIMARY,P08,repair,evcca,nine,0.0,0.0
+8,8,0,1,7,0,False,0,16,no_supported_group,ordered_rs|tie:rho,True,0.0021790259997942485,0,rs|tie:rho,,2,0.0,0.0,PRIMARY::P08 | LOAM | C,PRIMARY,P08,compact,ordered,nine,0.0,0.0
+8,8,0,1,7,0,False,0,16,no_supported_group,complete_subset_space,True,4.00099997932557e-06,0,,,2,0.0,0.0,PRIMARY::P08 | LOAM | C,PRIMARY,P08,compact,evcca,nine,0.0,0.0
+8,8,0,1,7,0,False,0,16,no_supported_group,ordered_rs|tie:rho,True,0.006387323000126344,0,rs|tie:rho,,2,0.0,0.0,PRIMARY::P08 | LOAM | C,PRIMARY,P08,repair,ordered,nine,0.0,0.0
+8,8,0,1,7,0,False,0,16,no_supported_group,complete_subset_space,True,0.00014855300014460227,0,,,2,0.0,0.0,PRIMARY::P08 | LOAM | C,PRIMARY,P08,repair,evcca,nine,0.0,0.0
+12,0,1,1,0,12,True,12,36,optimal,ordered_rs|tie:rho,True,7.171887458000128,2172,rs|tie:rho,,2,0.0,0.00562960847141629,PRIMARY::P13 | CLAY | C,PRIMARY,P13,compact,ordered,nine,0.0,0.0
+12,0,1,1,0,12,True,12,36,optimal,global_one_group_bound,True,5.0659000407904387e-05,2172,,,2,0.0,0.00562960847141629,PRIMARY::P13 | CLAY | C,PRIMARY,P13,compact,evcca,nine,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,ordered_depth,True,6.841889063999588,2172,depth,,2,1.0,0.005108461269582707,PRIMARY::P13 | CLAY | C,PRIMARY,P13,repair,ordered,nine,0.0,0.0
+12,0,2,1,0,12,True,12,0,optimal,global_zero_edit_bound,True,0.00028479599950514967,2172,,,2,1.0,0.005108461269582707,PRIMARY::P13 | CLAY | C,PRIMARY,P13,repair,evcca,nine,0.0,0.0
+17,0,2,1,0,17,True,17,63,optimal,ordered_Ip|tie:rs,True,30.68342816799941,8285,Ip|tie:rs,,4,0.08812260536398467,0.011780658480498994,PRIMARY::P13 | LOAM | C,PRIMARY,P13,compact,ordered,nine,0.0,0.0
+17,0,2,1,0,17,True,17,51,optimal,complete_subset_space,True,0.016983359999358072,8285,,,4,0.2378021978021978,0.011360314374355446,PRIMARY::P13 | LOAM | C,PRIMARY,P13,compact,evcca,nine,0.0,0.0
+17,0,2,1,0,17,True,17,49,optimal,ordered_PC2,True,32.845014710000214,8285,PC2,,4,0.2555853440571939,0.011868656238096721,PRIMARY::P13 | LOAM | C,PRIMARY,P13,repair,ordered,nine,0.0,0.0
+17,0,2,1,0,17,True,17,49,optimal,complete_subset_space,True,0.020512245000645635,8285,,,4,0.2555853440571939,0.011868656238096721,PRIMARY::P13 | LOAM | C,PRIMARY,P13,repair,evcca,nine,0.0,0.0
+9,2,1,1,1,7,False,0,12,optimal,ordered_rs|tie:rho,True,0.06739107100020192,23,rs|tie:rho,,3,0.31976744186046513,0.005188591523650504,PRIMARY::P13 | LOAM | f,PRIMARY,P13,compact,ordered,nine,0.0,0.0
+9,2,1,1,1,7,False,0,12,optimal,complete_subset_space,True,0.010408162000203447,23,,0.0,3,0.31976744186046513,0.005188591523650504,PRIMARY::P13 | LOAM | f,PRIMARY,P13,compact,evcca,nine,0.0,0.0
+9,2,1,1,1,7,False,0,12,optimal,ordered_rs|tie:rho,True,0.08498267200047849,23,rs|tie:rho,,3,0.31976744186046513,0.005188591523650504,PRIMARY::P13 | LOAM | f,PRIMARY,P13,repair,ordered,nine,0.0,0.0
+9,2,1,1,1,7,False,0,12,optimal,complete_subset_space,True,0.012813467000341916,23,,0.0,3,0.31976744186046513,0.005188591523650504,PRIMARY::P13 | LOAM | f,PRIMARY,P13,repair,evcca,nine,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,ordered_rs|tie:rho,True,0.5141914220002946,155,rs|tie:rho,,3,0.12698412698412698,0.014049621813548617,PRIMARY::P13 | LOAM | g,PRIMARY,P13,compact,ordered,nine,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,complete_subset_space,True,0.04121435500019288,155,,0.0,3,0.12698412698412698,0.014049621813548617,PRIMARY::P13 | LOAM | g,PRIMARY,P13,compact,evcca,nine,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,ordered_rs|tie:rho,True,0.6020280190004996,155,rs|tie:rho,,3,0.12698412698412698,0.014049621813548617,PRIMARY::P13 | LOAM | g,PRIMARY,P13,repair,ordered,nine,0.0,0.0
+10,1,1,1,0,9,True,9,22,optimal,complete_subset_space,True,0.0758736339994357,155,,0.0,3,0.12698412698412698,0.014049621813548617,PRIMARY::P13 | LOAM | g,PRIMARY,P13,repair,evcca,nine,0.0,0.0

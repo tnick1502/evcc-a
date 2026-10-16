@@ -1,0 +1,1191 @@
+sample_id,context_id,borehole_id,depth_m,initial_ige,method,mode,profile,group
+FI::410.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,1.45,ljSa,ordered,compact,four,-1
+FI::411.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,1.65,ljSa,ordered,compact,four,-1
+FI::418.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,5.05,liSa,ordered,compact,four,-1
+FI::420.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,5.9,liSa,ordered,compact,four,-1
+FI::421.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,6.2,liSa,ordered,compact,four,-1
+FI::422.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,6.95,liSa,ordered,compact,four,-1
+FI::423.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,7.7,laSa,ordered,compact,four,-1
+FI::424.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,8.85,liSa,ordered,compact,four,-1
+FI::425.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,9.7,laSa,ordered,compact,four,-1
+FI::428.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,10.9,laSa,ordered,compact,four,-1
+FI::429.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,12.45,laSa,ordered,compact,four,0
+FI::431.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,12.9,laSa,ordered,compact,four,0
+FI::432.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,13.5,laSa,ordered,compact,four,-1
+FI::433.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,14.85,liSa,ordered,compact,four,-1
+FI::436.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,15.85,liSa,ordered,compact,four,-1
+FI::437.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,16.5,laSa,ordered,compact,four,-1
+FI::438.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,3.35,liSa,ordered,compact,four,0
+FI::441.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,5.25,ljSa,ordered,compact,four,0
+FI::443.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,7.2,liSa,ordered,compact,four,0
+FI::444.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,6.9,liSa,ordered,compact,four,0
+FI::446.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,9.3,liSa,ordered,compact,four,-1
+FI::449.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,11.3,liSa,ordered,compact,four,-1
+FI::451.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,13.3,liSa,ordered,compact,four,-1
+FI::453.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,15.3,liSa,ordered,compact,four,-1
+FI::410.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,1.45,ljSa,evcca,compact,four,-1
+FI::411.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,1.65,ljSa,evcca,compact,four,-1
+FI::418.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,5.05,liSa,evcca,compact,four,-1
+FI::420.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,5.9,liSa,evcca,compact,four,-1
+FI::421.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,6.2,liSa,evcca,compact,four,-1
+FI::422.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,6.95,liSa,evcca,compact,four,-1
+FI::423.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,7.7,laSa,evcca,compact,four,-1
+FI::424.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,8.85,liSa,evcca,compact,four,-1
+FI::425.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,9.7,laSa,evcca,compact,four,-1
+FI::428.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,10.9,laSa,evcca,compact,four,-1
+FI::429.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,12.45,laSa,evcca,compact,four,0
+FI::431.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,12.9,laSa,evcca,compact,four,0
+FI::432.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,13.5,laSa,evcca,compact,four,-1
+FI::433.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,14.85,liSa,evcca,compact,four,-1
+FI::436.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,15.85,liSa,evcca,compact,four,-1
+FI::437.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::1,16.5,laSa,evcca,compact,four,-1
+FI::438.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,3.35,liSa,evcca,compact,four,0
+FI::441.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,5.25,ljSa,evcca,compact,four,0
+FI::443.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,7.2,liSa,evcca,compact,four,0
+FI::444.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,6.9,liSa,evcca,compact,four,0
+FI::446.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,9.3,liSa,evcca,compact,four,-1
+FI::449.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,11.3,liSa,evcca,compact,four,-1
+FI::451.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,13.3,liSa,evcca,compact,four,-1
+FI::453.0,FI::Haapa-Kimola | CLAY | ILOT,Haapa-Kimola::2,15.3,liSa,evcca,compact,four,-1
+FI::344.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,0.655,laSa,ordered,compact,four,-1
+FI::345.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,1.265,liSa,ordered,compact,four,-1
+FI::346.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,1.31,liSa,ordered,compact,four,-1
+FI::347.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,1.735,liSa,ordered,compact,four,-1
+FI::348.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,1.785,liSa,ordered,compact,four,-1
+FI::349.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,2.325,liSa,ordered,compact,four,0
+FI::350.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.105,liSa,ordered,compact,four,0
+FI::351.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.2350000000000003,liSa,ordered,compact,four,0
+FI::352.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.695,liSa,ordered,compact,four,0
+FI::353.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.985,liSa,ordered,compact,four,0
+FI::354.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,4.015000000000001,liSa,ordered,compact,four,0
+FI::355.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,4.355,liSa,ordered,compact,four,0
+FI::356.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,6.135,ljSa,ordered,compact,four,0
+FI::357.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,6.355,ljSa,ordered,compact,four,0
+FI::358.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,7.984999999999999,liSa,ordered,compact,four,0
+FI::359.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,8.01,liSa,ordered,compact,four,0
+FI::360.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,8.355,liSa,ordered,compact,four,0
+FI::361.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,9.045,liSa,ordered,compact,four,0
+FI::362.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,9.335,liSa,ordered,compact,four,0
+FI::363.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,11.235,liSa,ordered,compact,four,0
+FI::364.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,13.235,liSa,ordered,compact,four,0
+FI::344.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,0.655,laSa,evcca,compact,four,-1
+FI::345.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,1.265,liSa,evcca,compact,four,-1
+FI::346.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,1.31,liSa,evcca,compact,four,-1
+FI::347.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,1.735,liSa,evcca,compact,four,-1
+FI::348.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,1.785,liSa,evcca,compact,four,-1
+FI::349.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,2.325,liSa,evcca,compact,four,0
+FI::350.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.105,liSa,evcca,compact,four,0
+FI::351.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.2350000000000003,liSa,evcca,compact,four,0
+FI::352.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.695,liSa,evcca,compact,four,0
+FI::353.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,3.985,liSa,evcca,compact,four,0
+FI::354.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,4.015000000000001,liSa,evcca,compact,four,0
+FI::355.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,4.355,liSa,evcca,compact,four,0
+FI::356.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,6.135,ljSa,evcca,compact,four,0
+FI::357.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,6.355,ljSa,evcca,compact,four,0
+FI::358.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,7.984999999999999,liSa,evcca,compact,four,0
+FI::359.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,8.01,liSa,evcca,compact,four,0
+FI::360.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,8.355,liSa,evcca,compact,four,0
+FI::361.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,9.045,liSa,evcca,compact,four,0
+FI::362.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::2,9.335,liSa,evcca,compact,four,0
+FI::363.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,11.235,liSa,evcca,compact,four,0
+FI::364.0,FI::Haarajoki | CLAY | ILOT,Haarajoki::3,13.235,liSa,evcca,compact,four,0
+FI::555.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,1.525,liSa,ordered,compact,four,-1
+FI::556.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,1.5550000000000002,liSa,ordered,compact,four,-1
+FI::559.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.05,laSa,ordered,compact,four,-1
+FI::560.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.645,liSa,ordered,compact,four,0
+FI::561.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.6900000000000004,liSa,ordered,compact,four,0
+FI::562.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.835,liSa,ordered,compact,four,0
+FI::563.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.865,liSa,ordered,compact,four,0
+FI::565.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,3.355,liSa,ordered,compact,four,0
+FI::566.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,3.475,liSa,ordered,compact,four,0
+FI::570.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,4.885,liSa,ordered,compact,four,-1
+FI::571.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,4.915,liSa,ordered,compact,four,-1
+FI::575.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,6.145,laSa,ordered,compact,four,-1
+FI::577.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,4.635,ljSa,ordered,compact,four,0
+FI::579.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,6.635,laSa,ordered,compact,four,-1
+FI::582.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,9.665,liSa,ordered,compact,four,-1
+FI::583.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,9.695,liSa,ordered,compact,four,-1
+FI::584.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4961,2.045,ljSa,ordered,compact,four,-1
+FI::624.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4278_oik_11m,7.255,ljSa,ordered,compact,four,-1
+FI::555.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,1.525,liSa,evcca,compact,four,-1
+FI::556.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,1.5550000000000002,liSa,evcca,compact,four,-1
+FI::559.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.05,laSa,evcca,compact,four,-1
+FI::560.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.645,liSa,evcca,compact,four,0
+FI::561.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.6900000000000004,liSa,evcca,compact,four,0
+FI::562.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.835,liSa,evcca,compact,four,0
+FI::563.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,2.865,liSa,evcca,compact,four,0
+FI::565.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,3.355,liSa,evcca,compact,four,0
+FI::566.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,3.475,liSa,evcca,compact,four,0
+FI::570.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,4.885,liSa,evcca,compact,four,-1
+FI::571.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,4.915,liSa,evcca,compact,four,-1
+FI::575.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4519,6.145,laSa,evcca,compact,four,-1
+FI::577.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,4.635,ljSa,evcca,compact,four,0
+FI::579.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,6.635,laSa,evcca,compact,four,-1
+FI::582.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,9.665,liSa,evcca,compact,four,-1
+FI::583.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4960,9.695,liSa,evcca,compact,four,-1
+FI::584.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4961,2.045,ljSa,evcca,compact,four,-1
+FI::624.0,FI::Söderkulla-Nikkilä | CLAY | ILOT,Söderkulla-Nikkilä::4278_oik_11m,7.255,ljSa,evcca,compact,four,-1
+FI::489.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",1.845,liSa,ordered,compact,four,2
+FI::490.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.025,liSa,ordered,compact,four,2
+FI::491.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.255,liSa,ordered,compact,four,2
+FI::492.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.285,liSa,ordered,compact,four,2
+FI::493.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.33,liSa,ordered,compact,four,2
+FI::494.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.505,liSa,ordered,compact,four,2
+FI::495.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.805,liSa,ordered,compact,four,2
+FI::496.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.835,liSa,ordered,compact,four,2
+FI::497.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.9450000000000003,liSa,ordered,compact,four,1
+FI::498.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",3.02,liSa,ordered,compact,four,1
+FI::499.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",3.035,liSa,ordered,compact,four,1
+FI::500.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",3.055,liSa,ordered,compact,four,1
+FI::501.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",3.535,laSa,ordered,compact,four,1
+FI::502.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",3.665,laSa,ordered,compact,four,1
+FI::504.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",3.785,liSa,ordered,compact,four,1
+FI::505.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",4.515000000000001,liSa,ordered,compact,four,1
+FI::506.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",4.695,liSa,ordered,compact,four,1
+FI::507.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",4.815,liSa,ordered,compact,four,0
+FI::508.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",4.9350000000000005,liSa,ordered,compact,four,0
+FI::509.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",5.085,liSa,ordered,compact,four,-1
+FI::510.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",5.265000000000001,laSa,ordered,compact,four,0
+FI::511.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",5.505,laSa,ordered,compact,four,0
+FI::512.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",5.824999999999999,laSa,ordered,compact,four,0
+FI::513.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",5.885,laSa,ordered,compact,four,0
+FI::489.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",1.845,liSa,evcca,compact,four,0
+FI::490.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.025,liSa,evcca,compact,four,0
+FI::491.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.255,liSa,evcca,compact,four,0
+FI::492.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.285,liSa,evcca,compact,four,0
+FI::493.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.33,liSa,evcca,compact,four,0
+FI::494.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.505,liSa,evcca,compact,four,0
+FI::495.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.805,liSa,evcca,compact,four,0
+FI::496.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.835,liSa,evcca,compact,four,0
+FI::497.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",2.9450000000000003,liSa,evcca,compact,four,0
+FI::498.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",3.02,liSa,evcca,compact,four,0
+FI::499.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",3.035,liSa,evcca,compact,four,1
+FI::500.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",3.055,liSa,evcca,compact,four,0
+FI::501.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",3.535,laSa,evcca,compact,four,1
+FI::502.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",3.665,laSa,evcca,compact,four,0
+FI::504.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",3.785,liSa,evcca,compact,four,0
+FI::505.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",4.515000000000001,liSa,evcca,compact,four,0
+FI::506.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",4.695,liSa,evcca,compact,four,0
+FI::507.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",4.815,liSa,evcca,compact,four,1
+FI::508.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",4.9350000000000005,liSa,evcca,compact,four,1
+FI::509.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7C",5.085,liSa,evcca,compact,four,0
+FI::510.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",5.265000000000001,laSa,evcca,compact,four,1
+FI::511.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7A",5.505,laSa,evcca,compact,four,1
+FI::512.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",5.824999999999999,laSa,evcca,compact,four,1
+FI::513.0,"FI::Tolsa, Kirkkonummi | CLAY | ILOT","Tolsa, Kirkkonummi::7B",5.885,laSa,evcca,compact,four,1
+FI::101.0,FI::Östersundom | CLAY | ILOT,Östersundom::1,3.655,Sa,ordered,compact,four,-1
+FI::112.0,FI::Östersundom | CLAY | ILOT,Östersundom::2,2.4850000000000003,liSa,ordered,compact,four,-1
+FI::113.0,FI::Östersundom | CLAY | ILOT,Östersundom::2,4.215,liSa,ordered,compact,four,-1
+FI::115.0,FI::Östersundom | CLAY | ILOT,Östersundom::2,5.085,laSa,ordered,compact,four,-1
+FI::122.0,FI::Östersundom | CLAY | ILOT,Östersundom::3,4.085,liSa,ordered,compact,four,-1
+FI::127.0,FI::Östersundom | CLAY | ILOT,Östersundom::4B,1.1549999999999998,Sa,ordered,compact,four,-1
+FI::96.0,FI::Östersundom | CLAY | ILOT,Östersundom::1,1.205,Sa,ordered,compact,four,-1
+FI::98.0,FI::Östersundom | CLAY | ILOT,Östersundom::1,2.305,Sa,ordered,compact,four,-1
+FI::101.0,FI::Östersundom | CLAY | ILOT,Östersundom::1,3.655,Sa,evcca,compact,four,-1
+FI::112.0,FI::Östersundom | CLAY | ILOT,Östersundom::2,2.4850000000000003,liSa,evcca,compact,four,-1
+FI::113.0,FI::Östersundom | CLAY | ILOT,Östersundom::2,4.215,liSa,evcca,compact,four,-1
+FI::115.0,FI::Östersundom | CLAY | ILOT,Östersundom::2,5.085,laSa,evcca,compact,four,-1
+FI::122.0,FI::Östersundom | CLAY | ILOT,Östersundom::3,4.085,liSa,evcca,compact,four,-1
+FI::127.0,FI::Östersundom | CLAY | ILOT,Östersundom::4B,1.1549999999999998,Sa,evcca,compact,four,-1
+FI::96.0,FI::Östersundom | CLAY | ILOT,Östersundom::1,1.205,Sa,evcca,compact,four,-1
+FI::98.0,FI::Östersundom | CLAY | ILOT,Östersundom::1,2.305,Sa,evcca,compact,four,-1
+P07-S0013,P07 | LOAM | g | sigma3=100.0,B007,14.8,U002,ordered,compact,four,0
+P07-S0014,P07 | LOAM | g | sigma3=100.0,B006,12.8,U002,ordered,compact,four,0
+P07-S0015,P07 | LOAM | g | sigma3=100.0,B008,9.8,U001,ordered,compact,four,0
+P07-S0016,P07 | LOAM | g | sigma3=100.0,B004,19.1,U001,ordered,compact,four,0
+P07-S0017,P07 | LOAM | g | sigma3=100.0,B005,16.8,U002,ordered,compact,four,0
+P07-S0018,P07 | LOAM | g | sigma3=100.0,B003,11.3,U001,ordered,compact,four,0
+P07-S0019,P07 | LOAM | g | sigma3=100.0,B002,18.8,U002,ordered,compact,four,0
+P07-S0020,P07 | LOAM | g | sigma3=100.0,B009,15.4,U001,ordered,compact,four,0
+P07-S0021,P07 | LOAM | g | sigma3=100.0,B011,19.0,U001,ordered,compact,four,0
+P07-S0022,P07 | LOAM | g | sigma3=100.0,B011,7.7,U002,ordered,compact,four,0
+P07-S0023,P07 | LOAM | g | sigma3=100.0,B001,8.8,U001,ordered,compact,four,0
+P07-S0024,P07 | LOAM | g | sigma3=100.0,B010,19.0,U002,ordered,compact,four,0
+P07-S0013,P07 | LOAM | g | sigma3=100.0,B007,14.8,U002,evcca,compact,four,0
+P07-S0014,P07 | LOAM | g | sigma3=100.0,B006,12.8,U002,evcca,compact,four,0
+P07-S0015,P07 | LOAM | g | sigma3=100.0,B008,9.8,U001,evcca,compact,four,0
+P07-S0016,P07 | LOAM | g | sigma3=100.0,B004,19.1,U001,evcca,compact,four,0
+P07-S0017,P07 | LOAM | g | sigma3=100.0,B005,16.8,U002,evcca,compact,four,0
+P07-S0018,P07 | LOAM | g | sigma3=100.0,B003,11.3,U001,evcca,compact,four,0
+P07-S0019,P07 | LOAM | g | sigma3=100.0,B002,18.8,U002,evcca,compact,four,0
+P07-S0020,P07 | LOAM | g | sigma3=100.0,B009,15.4,U001,evcca,compact,four,0
+P07-S0021,P07 | LOAM | g | sigma3=100.0,B011,19.0,U001,evcca,compact,four,0
+P07-S0022,P07 | LOAM | g | sigma3=100.0,B011,7.7,U002,evcca,compact,four,0
+P07-S0023,P07 | LOAM | g | sigma3=100.0,B001,8.8,U001,evcca,compact,four,0
+P07-S0024,P07 | LOAM | g | sigma3=100.0,B010,19.0,U002,evcca,compact,four,0
+P09-S0001,P09 | LOAM | m | sigma3=50.0,B003,0.7,U001,ordered,compact,four,1
+P09-S0002,P09 | LOAM | m | sigma3=50.0,B005,0.5,U003,ordered,compact,four,1
+P09-S0003,P09 | LOAM | m | sigma3=50.0,B009,0.3,U004,ordered,compact,four,1
+P09-S0004,P09 | LOAM | m | sigma3=50.0,B010,0.3,U008,ordered,compact,four,0
+P09-S0005,P09 | LOAM | m | sigma3=50.0,B010,1.8,U002,ordered,compact,four,1
+P09-S0006,P09 | LOAM | m | sigma3=50.0,B004,1.8,U009,ordered,compact,four,0
+P09-S0007,P09 | LOAM | m | sigma3=50.0,B002,0.8,U001,ordered,compact,four,1
+P09-S0008,P09 | LOAM | m | sigma3=50.0,B007,0.5,U006,ordered,compact,four,0
+P09-S0009,P09 | LOAM | m | sigma3=50.0,B006,0.8,U001,ordered,compact,four,1
+P09-S0010,P09 | LOAM | m | sigma3=50.0,B011,1.3,U009,ordered,compact,four,0
+P09-S0011,P09 | LOAM | m | sigma3=50.0,B008,0.8,U007,ordered,compact,four,0
+P09-S0012,P09 | LOAM | m | sigma3=50.0,B001,2.7,U005,ordered,compact,four,0
+P09-S0001,P09 | LOAM | m | sigma3=50.0,B003,0.7,U001,evcca,compact,four,0
+P09-S0002,P09 | LOAM | m | sigma3=50.0,B005,0.5,U003,evcca,compact,four,0
+P09-S0003,P09 | LOAM | m | sigma3=50.0,B009,0.3,U004,evcca,compact,four,0
+P09-S0004,P09 | LOAM | m | sigma3=50.0,B010,0.3,U008,evcca,compact,four,1
+P09-S0005,P09 | LOAM | m | sigma3=50.0,B010,1.8,U002,evcca,compact,four,0
+P09-S0006,P09 | LOAM | m | sigma3=50.0,B004,1.8,U009,evcca,compact,four,1
+P09-S0007,P09 | LOAM | m | sigma3=50.0,B002,0.8,U001,evcca,compact,four,0
+P09-S0008,P09 | LOAM | m | sigma3=50.0,B007,0.5,U006,evcca,compact,four,1
+P09-S0009,P09 | LOAM | m | sigma3=50.0,B006,0.8,U001,evcca,compact,four,0
+P09-S0010,P09 | LOAM | m | sigma3=50.0,B011,1.3,U009,evcca,compact,four,1
+P09-S0011,P09 | LOAM | m | sigma3=50.0,B008,0.8,U007,evcca,compact,four,1
+P09-S0012,P09 | LOAM | m | sigma3=50.0,B001,2.7,U005,evcca,compact,four,1
+P15-S0001,P15 | LOAM | l | sigma3=50.0,B004,1.0,U005,ordered,compact,four,0
+P15-S0002,P15 | LOAM | l | sigma3=50.0,B006,3.8,U004,ordered,compact,four,0
+P15-S0003,P15 | LOAM | l | sigma3=50.0,B001,2.8,U004,ordered,compact,four,-1
+P15-S0004,P15 | LOAM | l | sigma3=50.0,B001,3.8,U003,ordered,compact,four,-1
+P15-S0005,P15 | LOAM | l | sigma3=50.0,B007,2.0,U005,ordered,compact,four,0
+P15-S0006,P15 | LOAM | l | sigma3=50.0,B007,2.4,U005,ordered,compact,four,0
+P15-S0007,P15 | LOAM | l | sigma3=50.0,B005,2.4,U005,ordered,compact,four,0
+P15-S0008,P15 | LOAM | l | sigma3=50.0,B005,3.0,U005,ordered,compact,four,0
+P15-S0009,P15 | LOAM | l | sigma3=50.0,B002,2.0,U002,ordered,compact,four,-1
+P15-S0010,P15 | LOAM | l | sigma3=50.0,B002,2.8,U003,ordered,compact,four,0
+P15-S0011,P15 | LOAM | l | sigma3=50.0,B008,2.8,U003,ordered,compact,four,-1
+P15-S0012,P15 | LOAM | l | sigma3=50.0,B003,2.0,U001,ordered,compact,four,0
+P15-S0001,P15 | LOAM | l | sigma3=50.0,B004,1.0,U005,evcca,compact,four,0
+P15-S0002,P15 | LOAM | l | sigma3=50.0,B006,3.8,U004,evcca,compact,four,0
+P15-S0003,P15 | LOAM | l | sigma3=50.0,B001,2.8,U004,evcca,compact,four,-1
+P15-S0004,P15 | LOAM | l | sigma3=50.0,B001,3.8,U003,evcca,compact,four,-1
+P15-S0005,P15 | LOAM | l | sigma3=50.0,B007,2.0,U005,evcca,compact,four,0
+P15-S0006,P15 | LOAM | l | sigma3=50.0,B007,2.4,U005,evcca,compact,four,0
+P15-S0007,P15 | LOAM | l | sigma3=50.0,B005,2.4,U005,evcca,compact,four,0
+P15-S0008,P15 | LOAM | l | sigma3=50.0,B005,3.0,U005,evcca,compact,four,0
+P15-S0009,P15 | LOAM | l | sigma3=50.0,B002,2.0,U002,evcca,compact,four,-1
+P15-S0010,P15 | LOAM | l | sigma3=50.0,B002,2.8,U003,evcca,compact,four,0
+P15-S0011,P15 | LOAM | l | sigma3=50.0,B008,2.8,U003,evcca,compact,four,-1
+P15-S0012,P15 | LOAM | l | sigma3=50.0,B003,2.0,U001,evcca,compact,four,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,ordered,compact,four,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,ordered,compact,four,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,ordered,compact,four,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,ordered,compact,four,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,ordered,compact,four,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,ordered,compact,four,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,ordered,compact,four,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,ordered,compact,four,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,evcca,compact,four,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,evcca,compact,four,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,evcca,compact,four,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,evcca,compact,four,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,evcca,compact,four,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,evcca,compact,four,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,evcca,compact,four,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,evcca,compact,four,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,ordered,repair,four,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,ordered,repair,four,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,ordered,repair,four,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,ordered,repair,four,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,ordered,repair,four,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,ordered,repair,four,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,ordered,repair,four,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,ordered,repair,four,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,evcca,repair,four,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,evcca,repair,four,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,evcca,repair,four,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,evcca,repair,four,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,evcca,repair,four,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,evcca,repair,four,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,evcca,repair,four,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,evcca,repair,four,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,ordered,compact,four,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,ordered,compact,four,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,ordered,compact,four,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,ordered,compact,four,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,ordered,compact,four,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,ordered,compact,four,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,ordered,compact,four,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,ordered,compact,four,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,ordered,compact,four,0
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,ordered,compact,four,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,ordered,compact,four,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,evcca,compact,four,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,evcca,compact,four,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,evcca,compact,four,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,evcca,compact,four,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,evcca,compact,four,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,evcca,compact,four,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,evcca,compact,four,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,evcca,compact,four,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,evcca,compact,four,0
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,evcca,compact,four,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,evcca,compact,four,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,ordered,repair,four,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,ordered,repair,four,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,ordered,repair,four,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,ordered,repair,four,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,ordered,repair,four,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,ordered,repair,four,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,ordered,repair,four,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,ordered,repair,four,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,ordered,repair,four,0
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,ordered,repair,four,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,ordered,repair,four,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,evcca,repair,four,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,evcca,repair,four,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,evcca,repair,four,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,evcca,repair,four,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,evcca,repair,four,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,evcca,repair,four,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,evcca,repair,four,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,evcca,repair,four,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,evcca,repair,four,0
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,evcca,repair,four,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,evcca,repair,four,0
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,ordered,compact,four,0
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,ordered,compact,four,0
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,ordered,compact,four,0
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,ordered,compact,four,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,ordered,compact,four,0
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,ordered,compact,four,0
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,ordered,compact,four,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,ordered,compact,four,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,ordered,compact,four,0
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,ordered,compact,four,-1
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,evcca,compact,four,0
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,evcca,compact,four,0
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,evcca,compact,four,0
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,evcca,compact,four,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,evcca,compact,four,0
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,evcca,compact,four,0
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,evcca,compact,four,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,evcca,compact,four,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,evcca,compact,four,0
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,evcca,compact,four,-1
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,ordered,repair,four,0
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,ordered,repair,four,0
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,ordered,repair,four,0
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,ordered,repair,four,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,ordered,repair,four,0
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,ordered,repair,four,0
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,ordered,repair,four,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,ordered,repair,four,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,ordered,repair,four,0
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,ordered,repair,four,-1
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,evcca,repair,four,0
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,evcca,repair,four,0
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,evcca,repair,four,0
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,evcca,repair,four,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,evcca,repair,four,0
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,evcca,repair,four,0
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,evcca,repair,four,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,evcca,repair,four,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,evcca,repair,four,0
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,evcca,repair,four,-1
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,ordered,compact,four,0
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,ordered,compact,four,1
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,ordered,compact,four,1
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,ordered,compact,four,1
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,ordered,compact,four,0
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,ordered,compact,four,1
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,ordered,compact,four,0
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,ordered,compact,four,1
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,ordered,compact,four,0
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,ordered,compact,four,0
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,ordered,compact,four,0
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,ordered,compact,four,1
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,evcca,compact,four,0
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,evcca,compact,four,0
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,evcca,compact,four,0
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,evcca,compact,four,1
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,evcca,compact,four,1
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,evcca,compact,four,0
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,evcca,compact,four,1
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,evcca,compact,four,0
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,evcca,compact,four,1
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,evcca,compact,four,1
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,evcca,compact,four,0
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,evcca,compact,four,1
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,ordered,repair,four,1
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,ordered,repair,four,0
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,ordered,repair,four,1
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,ordered,repair,four,0
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,ordered,repair,four,0
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,ordered,repair,four,1
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,ordered,repair,four,1
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,ordered,repair,four,1
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,ordered,repair,four,0
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,ordered,repair,four,0
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,ordered,repair,four,1
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,ordered,repair,four,0
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,evcca,repair,four,0
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,evcca,repair,four,1
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,evcca,repair,four,0
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,evcca,repair,four,1
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,evcca,repair,four,1
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,evcca,repair,four,0
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,evcca,repair,four,0
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,evcca,repair,four,0
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,evcca,repair,four,1
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,evcca,repair,four,1
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,evcca,repair,four,0
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,evcca,repair,four,1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,ordered,compact,four,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,ordered,compact,four,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,ordered,compact,four,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,ordered,compact,four,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,ordered,compact,four,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,ordered,compact,four,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,ordered,compact,four,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,ordered,compact,four,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,ordered,compact,four,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,ordered,compact,four,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,ordered,compact,four,-1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,evcca,compact,four,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,evcca,compact,four,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,evcca,compact,four,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,evcca,compact,four,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,evcca,compact,four,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,evcca,compact,four,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,evcca,compact,four,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,evcca,compact,four,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,evcca,compact,four,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,evcca,compact,four,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,evcca,compact,four,-1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,ordered,repair,four,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,ordered,repair,four,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,ordered,repair,four,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,ordered,repair,four,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,ordered,repair,four,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,ordered,repair,four,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,ordered,repair,four,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,ordered,repair,four,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,ordered,repair,four,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,ordered,repair,four,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,ordered,repair,four,-1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,evcca,repair,four,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,evcca,repair,four,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,evcca,repair,four,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,evcca,repair,four,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,evcca,repair,four,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,evcca,repair,four,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,evcca,repair,four,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,evcca,repair,four,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,evcca,repair,four,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,evcca,repair,four,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,evcca,repair,four,-1
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,ordered,compact,four,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,ordered,compact,four,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,ordered,compact,four,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,ordered,compact,four,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,ordered,compact,four,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,ordered,compact,four,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,ordered,compact,four,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,ordered,compact,four,0
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,evcca,compact,four,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,evcca,compact,four,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,evcca,compact,four,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,evcca,compact,four,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,evcca,compact,four,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,evcca,compact,four,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,evcca,compact,four,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,evcca,compact,four,0
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,ordered,repair,four,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,ordered,repair,four,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,ordered,repair,four,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,ordered,repair,four,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,ordered,repair,four,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,ordered,repair,four,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,ordered,repair,four,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,ordered,repair,four,0
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,evcca,repair,four,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,evcca,repair,four,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,evcca,repair,four,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,evcca,repair,four,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,evcca,repair,four,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,evcca,repair,four,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,evcca,repair,four,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,evcca,repair,four,0
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,ordered,compact,four,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,ordered,compact,four,0
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,ordered,compact,four,0
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,ordered,compact,four,0
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,ordered,compact,four,0
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,ordered,compact,four,0
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,ordered,compact,four,0
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,ordered,compact,four,0
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,evcca,compact,four,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,evcca,compact,four,0
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,evcca,compact,four,0
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,evcca,compact,four,0
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,evcca,compact,four,0
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,evcca,compact,four,0
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,evcca,compact,four,0
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,evcca,compact,four,0
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,ordered,repair,four,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,ordered,repair,four,0
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,ordered,repair,four,0
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,ordered,repair,four,0
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,ordered,repair,four,0
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,ordered,repair,four,0
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,ordered,repair,four,0
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,ordered,repair,four,0
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,evcca,repair,four,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,evcca,repair,four,0
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,evcca,repair,four,0
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,evcca,repair,four,0
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,evcca,repair,four,0
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,evcca,repair,four,0
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,evcca,repair,four,0
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,evcca,repair,four,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,ordered,compact,four,0
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,ordered,compact,four,0
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,ordered,compact,four,0
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,ordered,compact,four,0
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,ordered,compact,four,0
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,ordered,compact,four,0
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,ordered,compact,four,0
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,ordered,compact,four,0
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,ordered,compact,four,0
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,ordered,compact,four,0
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,ordered,compact,four,0
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,ordered,compact,four,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,evcca,compact,four,0
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,evcca,compact,four,0
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,evcca,compact,four,0
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,evcca,compact,four,0
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,evcca,compact,four,0
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,evcca,compact,four,0
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,evcca,compact,four,0
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,evcca,compact,four,0
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,evcca,compact,four,0
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,evcca,compact,four,0
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,evcca,compact,four,0
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,evcca,compact,four,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,ordered,repair,four,1
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,ordered,repair,four,0
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,ordered,repair,four,1
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,ordered,repair,four,1
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,ordered,repair,four,1
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,ordered,repair,four,1
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,ordered,repair,four,0
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,ordered,repair,four,1
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,ordered,repair,four,0
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,ordered,repair,four,0
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,ordered,repair,four,0
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,ordered,repair,four,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,evcca,repair,four,0
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,evcca,repair,four,1
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,evcca,repair,four,0
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,evcca,repair,four,0
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,evcca,repair,four,0
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,evcca,repair,four,0
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,evcca,repair,four,1
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,evcca,repair,four,0
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,evcca,repair,four,1
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,evcca,repair,four,1
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,evcca,repair,four,1
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,evcca,repair,four,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,ordered,compact,four,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,ordered,compact,four,0
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,ordered,compact,four,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,ordered,compact,four,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,ordered,compact,four,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,ordered,compact,four,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,ordered,compact,four,0
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,ordered,compact,four,1
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,ordered,compact,four,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,ordered,compact,four,0
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,ordered,compact,four,0
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,ordered,compact,four,1
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,ordered,compact,four,0
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,ordered,compact,four,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,ordered,compact,four,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,ordered,compact,four,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,ordered,compact,four,0
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,evcca,compact,four,1
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,evcca,compact,four,1
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,evcca,compact,four,0
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,evcca,compact,four,0
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,evcca,compact,four,1
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,evcca,compact,four,1
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,evcca,compact,four,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,evcca,compact,four,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,evcca,compact,four,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,evcca,compact,four,1
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,evcca,compact,four,1
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,evcca,compact,four,0
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,evcca,compact,four,1
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,evcca,compact,four,0
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,evcca,compact,four,1
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,evcca,compact,four,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,evcca,compact,four,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,ordered,repair,four,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,ordered,repair,four,0
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,ordered,repair,four,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,ordered,repair,four,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,ordered,repair,four,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,ordered,repair,four,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,ordered,repair,four,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,ordered,repair,four,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,ordered,repair,four,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,ordered,repair,four,0
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,ordered,repair,four,0
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,ordered,repair,four,0
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,ordered,repair,four,0
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,ordered,repair,four,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,ordered,repair,four,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,ordered,repair,four,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,ordered,repair,four,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,evcca,repair,four,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,evcca,repair,four,0
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,evcca,repair,four,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,evcca,repair,four,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,evcca,repair,four,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,evcca,repair,four,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,evcca,repair,four,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,evcca,repair,four,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,evcca,repair,four,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,evcca,repair,four,0
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,evcca,repair,four,0
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,evcca,repair,four,0
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,evcca,repair,four,0
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,evcca,repair,four,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,evcca,repair,four,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,evcca,repair,four,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,evcca,repair,four,1
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,ordered,compact,four,0
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,ordered,compact,four,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,ordered,compact,four,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,ordered,compact,four,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,ordered,compact,four,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,ordered,compact,four,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,ordered,compact,four,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,ordered,compact,four,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,ordered,compact,four,0
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,evcca,compact,four,0
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,evcca,compact,four,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,evcca,compact,four,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,evcca,compact,four,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,evcca,compact,four,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,evcca,compact,four,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,evcca,compact,four,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,evcca,compact,four,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,evcca,compact,four,0
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,ordered,repair,four,0
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,ordered,repair,four,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,ordered,repair,four,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,ordered,repair,four,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,ordered,repair,four,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,ordered,repair,four,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,ordered,repair,four,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,ordered,repair,four,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,ordered,repair,four,0
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,evcca,repair,four,0
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,evcca,repair,four,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,evcca,repair,four,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,evcca,repair,four,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,evcca,repair,four,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,evcca,repair,four,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,evcca,repair,four,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,evcca,repair,four,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,evcca,repair,four,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,ordered,compact,four,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,ordered,compact,four,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,ordered,compact,four,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,ordered,compact,four,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,ordered,compact,four,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,ordered,compact,four,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,ordered,compact,four,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,ordered,compact,four,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,ordered,compact,four,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,ordered,compact,four,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,evcca,compact,four,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,evcca,compact,four,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,evcca,compact,four,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,evcca,compact,four,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,evcca,compact,four,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,evcca,compact,four,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,evcca,compact,four,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,evcca,compact,four,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,evcca,compact,four,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,evcca,compact,four,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,ordered,repair,four,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,ordered,repair,four,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,ordered,repair,four,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,ordered,repair,four,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,ordered,repair,four,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,ordered,repair,four,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,ordered,repair,four,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,ordered,repair,four,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,ordered,repair,four,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,ordered,repair,four,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,evcca,repair,four,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,evcca,repair,four,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,evcca,repair,four,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,evcca,repair,four,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,evcca,repair,four,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,evcca,repair,four,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,evcca,repair,four,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,evcca,repair,four,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,evcca,repair,four,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,evcca,repair,four,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,ordered,compact,nine,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,ordered,compact,nine,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,ordered,compact,nine,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,ordered,compact,nine,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,ordered,compact,nine,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,ordered,compact,nine,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,ordered,compact,nine,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,ordered,compact,nine,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,evcca,compact,nine,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,evcca,compact,nine,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,evcca,compact,nine,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,evcca,compact,nine,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,evcca,compact,nine,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,evcca,compact,nine,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,evcca,compact,nine,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,evcca,compact,nine,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,ordered,repair,nine,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,ordered,repair,nine,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,ordered,repair,nine,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,ordered,repair,nine,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,ordered,repair,nine,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,ordered,repair,nine,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,ordered,repair,nine,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,ordered,repair,nine,0
+P01-S0043,PRIMARY::P01 | CLAY | C,B006,28.7,U003,evcca,repair,nine,0
+P01-S0044,PRIMARY::P01 | CLAY | C,B006,32.0,U003,evcca,repair,nine,0
+P01-S0047,PRIMARY::P01 | CLAY | C,B006,39.0,U005,evcca,repair,nine,-1
+P01-S0068,PRIMARY::P01 | CLAY | C,B009,42.4,U005,evcca,repair,nine,-1
+P01-S0073,PRIMARY::P01 | CLAY | C,B010,52.4,U005,evcca,repair,nine,0
+P01-S0113,PRIMARY::P01 | CLAY | C,B015,28.0,U003,evcca,repair,nine,0
+P01-S0114,PRIMARY::P01 | CLAY | C,B015,31.4,U003,evcca,repair,nine,0
+P01-S0224,PRIMARY::P01 | CLAY | C,B035,26.4,U003,evcca,repair,nine,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,ordered,compact,nine,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,ordered,compact,nine,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,ordered,compact,nine,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,ordered,compact,nine,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,ordered,compact,nine,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,ordered,compact,nine,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,ordered,compact,nine,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,ordered,compact,nine,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,ordered,compact,nine,-1
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,ordered,compact,nine,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,ordered,compact,nine,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,evcca,compact,nine,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,evcca,compact,nine,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,evcca,compact,nine,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,evcca,compact,nine,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,evcca,compact,nine,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,evcca,compact,nine,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,evcca,compact,nine,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,evcca,compact,nine,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,evcca,compact,nine,-1
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,evcca,compact,nine,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,evcca,compact,nine,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,ordered,repair,nine,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,ordered,repair,nine,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,ordered,repair,nine,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,ordered,repair,nine,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,ordered,repair,nine,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,ordered,repair,nine,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,ordered,repair,nine,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,ordered,repair,nine,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,ordered,repair,nine,-1
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,ordered,repair,nine,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,ordered,repair,nine,0
+P01-S0017,PRIMARY::P01 | CLAY | J,B003,21.1,U014,evcca,repair,nine,0
+P01-S0030,PRIMARY::P01 | CLAY | J,B004,13.7,U013,evcca,repair,nine,0
+P01-S0031,PRIMARY::P01 | CLAY | J,B004,17.6,U013,evcca,repair,nine,0
+P01-S0069,PRIMARY::P01 | CLAY | J,B009,43.0,U005,evcca,repair,nine,-1
+P01-S0091,PRIMARY::P01 | CLAY | J,B012,25.2,U003,evcca,repair,nine,-1
+P01-S0107,PRIMARY::P01 | CLAY | J,B014,16.4,U013,evcca,repair,nine,0
+P01-S0122,PRIMARY::P01 | CLAY | J,B017,14.0,U013,evcca,repair,nine,0
+P01-S0123,PRIMARY::P01 | CLAY | J,B017,19.8,U013,evcca,repair,nine,0
+P01-S0124,PRIMARY::P01 | CLAY | J,B017,24.1,U014,evcca,repair,nine,-1
+P01-S0145,PRIMARY::P01 | CLAY | J,B021,22.0,U014,evcca,repair,nine,0
+P01-S0156,PRIMARY::P01 | CLAY | J,B023,21.2,U014,evcca,repair,nine,0
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,ordered,compact,nine,-1
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,ordered,compact,nine,-1
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,ordered,compact,nine,-1
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,ordered,compact,nine,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,ordered,compact,nine,-1
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,ordered,compact,nine,-1
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,ordered,compact,nine,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,ordered,compact,nine,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,ordered,compact,nine,-1
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,ordered,compact,nine,-1
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,evcca,compact,nine,-1
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,evcca,compact,nine,-1
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,evcca,compact,nine,-1
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,evcca,compact,nine,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,evcca,compact,nine,-1
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,evcca,compact,nine,-1
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,evcca,compact,nine,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,evcca,compact,nine,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,evcca,compact,nine,-1
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,evcca,compact,nine,-1
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,ordered,repair,nine,-1
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,ordered,repair,nine,-1
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,ordered,repair,nine,-1
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,ordered,repair,nine,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,ordered,repair,nine,-1
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,ordered,repair,nine,-1
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,ordered,repair,nine,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,ordered,repair,nine,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,ordered,repair,nine,-1
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,ordered,repair,nine,-1
+P01-S0020,PRIMARY::P01 | LOAM | pr,B004,1.0,U007,evcca,repair,nine,-1
+P01-S0042,PRIMARY::P01 | LOAM | pr,B006,1.2,U007,evcca,repair,nine,-1
+P01-S0061,PRIMARY::P01 | LOAM | pr,B009,0.8,U007,evcca,repair,nine,-1
+P01-S0070,PRIMARY::P01 | LOAM | pr,B010,2.3,U007,evcca,repair,nine,-1
+P01-S0103,PRIMARY::P01 | LOAM | pr,B014,2.8,U007,evcca,repair,nine,-1
+P01-S0168,PRIMARY::P01 | LOAM | pr,B026,1.1,U006,evcca,repair,nine,-1
+P01-S0169,PRIMARY::P01 | LOAM | pr,B026,4.2,U008,evcca,repair,nine,-1
+P01-S0183,PRIMARY::P01 | LOAM | pr,B027,2.6,U006,evcca,repair,nine,-1
+P01-S0199,PRIMARY::P01 | LOAM | pr,B030,1.2,U006,evcca,repair,nine,-1
+P01-S0202,PRIMARY::P01 | LOAM | pr,B030,4.3,U008,evcca,repair,nine,-1
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,ordered,compact,nine,0
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,ordered,compact,nine,0
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,ordered,compact,nine,0
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,ordered,compact,nine,1
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,ordered,compact,nine,1
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,ordered,compact,nine,0
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,ordered,compact,nine,1
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,ordered,compact,nine,1
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,ordered,compact,nine,0
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,ordered,compact,nine,1
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,ordered,compact,nine,1
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,ordered,compact,nine,0
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,evcca,compact,nine,1
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,evcca,compact,nine,1
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,evcca,compact,nine,1
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,evcca,compact,nine,0
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,evcca,compact,nine,0
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,evcca,compact,nine,1
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,evcca,compact,nine,0
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,evcca,compact,nine,0
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,evcca,compact,nine,1
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,evcca,compact,nine,0
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,evcca,compact,nine,0
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,evcca,compact,nine,1
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,ordered,repair,nine,1
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,ordered,repair,nine,0
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,ordered,repair,nine,1
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,ordered,repair,nine,0
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,ordered,repair,nine,0
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,ordered,repair,nine,1
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,ordered,repair,nine,1
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,ordered,repair,nine,1
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,ordered,repair,nine,0
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,ordered,repair,nine,0
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,ordered,repair,nine,1
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,ordered,repair,nine,0
+P06-S0004,PRIMARY::P06 | CLAY | C,B001,33.0,U002,evcca,repair,nine,0
+P06-S0008,PRIMARY::P06 | CLAY | C,B001,43.0,U004,evcca,repair,nine,1
+P06-S0027,PRIMARY::P06 | CLAY | C,B002,35.0,U002,evcca,repair,nine,0
+P06-S0030,PRIMARY::P06 | CLAY | C,B002,39.0,U004,evcca,repair,nine,1
+P06-S0032,PRIMARY::P06 | CLAY | C,B002,43.5,U004,evcca,repair,nine,1
+P06-S0082,PRIMARY::P06 | CLAY | C,B005,34.0,U002,evcca,repair,nine,0
+P06-S0100,PRIMARY::P06 | CLAY | C,B006,35.3,U002,evcca,repair,nine,0
+P06-S0119,PRIMARY::P06 | CLAY | C,B007,33.3,U002,evcca,repair,nine,0
+P06-S0125,PRIMARY::P06 | CLAY | C,B007,45.8,U004,evcca,repair,nine,1
+P06-S0140,PRIMARY::P06 | CLAY | C,B008,42.0,U004,evcca,repair,nine,1
+P06-S0170,PRIMARY::P06 | CLAY | C,B011,36.0,U002,evcca,repair,nine,0
+P06-S0173,PRIMARY::P06 | CLAY | C,B011,42.0,U004,evcca,repair,nine,1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,ordered,compact,nine,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,ordered,compact,nine,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,ordered,compact,nine,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,ordered,compact,nine,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,ordered,compact,nine,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,ordered,compact,nine,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,ordered,compact,nine,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,ordered,compact,nine,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,ordered,compact,nine,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,ordered,compact,nine,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,ordered,compact,nine,-1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,evcca,compact,nine,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,evcca,compact,nine,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,evcca,compact,nine,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,evcca,compact,nine,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,evcca,compact,nine,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,evcca,compact,nine,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,evcca,compact,nine,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,evcca,compact,nine,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,evcca,compact,nine,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,evcca,compact,nine,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,evcca,compact,nine,-1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,ordered,repair,nine,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,ordered,repair,nine,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,ordered,repair,nine,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,ordered,repair,nine,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,ordered,repair,nine,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,ordered,repair,nine,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,ordered,repair,nine,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,ordered,repair,nine,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,ordered,repair,nine,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,ordered,repair,nine,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,ordered,repair,nine,-1
+P08-S0008,PRIMARY::P08 | CLAY | C,B001,36.2,U002,evcca,repair,nine,-1
+P08-S0012,PRIMARY::P08 | CLAY | C,B001,42.0,U004,evcca,repair,nine,0
+P08-S0048,PRIMARY::P08 | CLAY | C,B003,32.0,U002,evcca,repair,nine,0
+P08-S0051,PRIMARY::P08 | CLAY | C,B003,40.0,U004,evcca,repair,nine,0
+P08-S0070,PRIMARY::P08 | CLAY | C,B004,31.5,U002,evcca,repair,nine,0
+P08-S0072,PRIMARY::P08 | CLAY | C,B004,35.5,U002,evcca,repair,nine,0
+P08-S0073,PRIMARY::P08 | CLAY | C,B004,43.0,U004,evcca,repair,nine,0
+P08-S0126,PRIMARY::P08 | CLAY | C,B009,33.0,U002,evcca,repair,nine,0
+P08-S0131,PRIMARY::P08 | CLAY | C,B009,45.4,U004,evcca,repair,nine,-1
+P08-S0148,PRIMARY::P08 | CLAY | C,B010,33.1,U002,evcca,repair,nine,0
+P08-S0155,PRIMARY::P08 | CLAY | C,B010,44.3,U004,evcca,repair,nine,-1
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,ordered,compact,nine,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,ordered,compact,nine,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,ordered,compact,nine,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,ordered,compact,nine,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,ordered,compact,nine,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,ordered,compact,nine,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,ordered,compact,nine,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,ordered,compact,nine,0
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,evcca,compact,nine,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,evcca,compact,nine,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,evcca,compact,nine,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,evcca,compact,nine,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,evcca,compact,nine,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,evcca,compact,nine,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,evcca,compact,nine,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,evcca,compact,nine,0
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,ordered,repair,nine,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,ordered,repair,nine,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,ordered,repair,nine,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,ordered,repair,nine,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,ordered,repair,nine,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,ordered,repair,nine,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,ordered,repair,nine,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,ordered,repair,nine,0
+P08-S0005,PRIMARY::P08 | CLAY | J,B001,28.2,U011,evcca,repair,nine,0
+P08-S0068,PRIMARY::P08 | CLAY | J,B004,28.3,U011,evcca,repair,nine,0
+P08-S0069,PRIMARY::P08 | CLAY | J,B004,30.0,U012,evcca,repair,nine,0
+P08-S0092,PRIMARY::P08 | CLAY | J,B006,29.8,U012,evcca,repair,nine,0
+P08-S0104,PRIMARY::P08 | CLAY | J,B008,27.0,U011,evcca,repair,nine,-1
+P08-S0105,PRIMARY::P08 | CLAY | J,B008,29.0,U011,evcca,repair,nine,0
+P08-S0106,PRIMARY::P08 | CLAY | J,B008,31.0,U012,evcca,repair,nine,0
+P08-S0146,PRIMARY::P08 | CLAY | J,B010,29.5,U012,evcca,repair,nine,0
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,ordered,compact,nine,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,ordered,compact,nine,-1
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,ordered,compact,nine,-1
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,ordered,compact,nine,-1
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,ordered,compact,nine,-1
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,ordered,compact,nine,-1
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,ordered,compact,nine,-1
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,ordered,compact,nine,-1
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,evcca,compact,nine,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,evcca,compact,nine,-1
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,evcca,compact,nine,-1
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,evcca,compact,nine,-1
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,evcca,compact,nine,-1
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,evcca,compact,nine,-1
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,evcca,compact,nine,-1
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,evcca,compact,nine,-1
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,ordered,repair,nine,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,ordered,repair,nine,-1
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,ordered,repair,nine,-1
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,ordered,repair,nine,-1
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,ordered,repair,nine,-1
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,ordered,repair,nine,-1
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,ordered,repair,nine,-1
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,ordered,repair,nine,-1
+P08-S0010,PRIMARY::P08 | LOAM | C,B001,40.6,U003,evcca,repair,nine,-1
+P08-S0017,PRIMARY::P08 | LOAM | C,B001,53.0,U005,evcca,repair,nine,-1
+P08-S0018,PRIMARY::P08 | LOAM | C,B001,53.5,U005,evcca,repair,nine,-1
+P08-S0021,PRIMARY::P08 | LOAM | C,B001,59.0,U005,evcca,repair,nine,-1
+P08-S0022,PRIMARY::P08 | LOAM | C,B001,61.0,U005,evcca,repair,nine,-1
+P08-S0058,PRIMARY::P08 | LOAM | C,B003,53.5,U005,evcca,repair,nine,-1
+P08-S0128,PRIMARY::P08 | LOAM | C,B009,37.3,U003,evcca,repair,nine,-1
+P08-S0159,PRIMARY::P08 | LOAM | C,B010,55.5,U005,evcca,repair,nine,-1
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,ordered,compact,nine,0
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,ordered,compact,nine,0
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,ordered,compact,nine,0
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,ordered,compact,nine,0
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,ordered,compact,nine,0
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,ordered,compact,nine,0
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,ordered,compact,nine,0
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,ordered,compact,nine,0
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,ordered,compact,nine,0
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,ordered,compact,nine,0
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,ordered,compact,nine,0
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,ordered,compact,nine,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,evcca,compact,nine,0
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,evcca,compact,nine,0
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,evcca,compact,nine,0
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,evcca,compact,nine,0
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,evcca,compact,nine,0
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,evcca,compact,nine,0
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,evcca,compact,nine,0
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,evcca,compact,nine,0
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,evcca,compact,nine,0
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,evcca,compact,nine,0
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,evcca,compact,nine,0
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,evcca,compact,nine,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,ordered,repair,nine,1
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,ordered,repair,nine,0
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,ordered,repair,nine,1
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,ordered,repair,nine,1
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,ordered,repair,nine,1
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,ordered,repair,nine,1
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,ordered,repair,nine,0
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,ordered,repair,nine,1
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,ordered,repair,nine,0
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,ordered,repair,nine,0
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,ordered,repair,nine,0
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,ordered,repair,nine,0
+P13-S0025,PRIMARY::P13 | CLAY | C,B002,47.5,U009,evcca,repair,nine,0
+P13-S0028,PRIMARY::P13 | CLAY | C,B002,58.0,U011,evcca,repair,nine,1
+P13-S0047,PRIMARY::P13 | CLAY | C,B003,46.0,U009,evcca,repair,nine,0
+P13-S0062,PRIMARY::P13 | CLAY | C,B004,47.0,U009,evcca,repair,nine,0
+P13-S0082,PRIMARY::P13 | CLAY | C,B005,46.0,U009,evcca,repair,nine,0
+P13-S0099,PRIMARY::P13 | CLAY | C,B006,46.3,U009,evcca,repair,nine,0
+P13-S0101,PRIMARY::P13 | CLAY | C,B006,60.0,U011,evcca,repair,nine,1
+P13-S0195,PRIMARY::P13 | CLAY | C,B012,46.8,U009,evcca,repair,nine,0
+P13-S0221,PRIMARY::P13 | CLAY | C,B013,54.8,U011,evcca,repair,nine,1
+P13-S0223,PRIMARY::P13 | CLAY | C,B013,59.0,U011,evcca,repair,nine,1
+P13-S0301,PRIMARY::P13 | CLAY | C,B018,58.0,U011,evcca,repair,nine,1
+P13-S0372,PRIMARY::P13 | CLAY | C,B024,55.2,U011,evcca,repair,nine,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,ordered,compact,nine,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,ordered,compact,nine,1
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,ordered,compact,nine,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,ordered,compact,nine,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,ordered,compact,nine,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,ordered,compact,nine,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,ordered,compact,nine,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,ordered,compact,nine,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,ordered,compact,nine,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,ordered,compact,nine,1
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,ordered,compact,nine,1
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,ordered,compact,nine,1
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,ordered,compact,nine,1
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,ordered,compact,nine,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,ordered,compact,nine,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,ordered,compact,nine,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,ordered,compact,nine,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,evcca,compact,nine,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,evcca,compact,nine,1
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,evcca,compact,nine,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,evcca,compact,nine,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,evcca,compact,nine,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,evcca,compact,nine,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,evcca,compact,nine,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,evcca,compact,nine,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,evcca,compact,nine,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,evcca,compact,nine,1
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,evcca,compact,nine,1
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,evcca,compact,nine,0
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,evcca,compact,nine,1
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,evcca,compact,nine,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,evcca,compact,nine,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,evcca,compact,nine,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,evcca,compact,nine,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,ordered,repair,nine,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,ordered,repair,nine,0
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,ordered,repair,nine,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,ordered,repair,nine,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,ordered,repair,nine,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,ordered,repair,nine,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,ordered,repair,nine,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,ordered,repair,nine,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,ordered,repair,nine,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,ordered,repair,nine,1
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,ordered,repair,nine,1
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,ordered,repair,nine,0
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,ordered,repair,nine,0
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,ordered,repair,nine,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,ordered,repair,nine,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,ordered,repair,nine,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,ordered,repair,nine,1
+P13-S0030,PRIMARY::P13 | LOAM | C,B002,72.3,U013,evcca,repair,nine,0
+P13-S0033,PRIMARY::P13 | LOAM | C,B002,80.0,U014,evcca,repair,nine,0
+P13-S0063,PRIMARY::P13 | LOAM | C,B004,52.0,U010,evcca,repair,nine,1
+P13-S0064,PRIMARY::P13 | LOAM | C,B004,53.0,U010,evcca,repair,nine,1
+P13-S0066,PRIMARY::P13 | LOAM | C,B004,67.0,U013,evcca,repair,nine,0
+P13-S0069,PRIMARY::P13 | LOAM | C,B004,81.5,U014,evcca,repair,nine,0
+P13-S0086,PRIMARY::P13 | LOAM | C,B005,52.5,U010,evcca,repair,nine,1
+P13-S0103,PRIMARY::P13 | LOAM | C,B006,67.8,U013,evcca,repair,nine,0
+P13-S0104,PRIMARY::P13 | LOAM | C,B006,70.3,U013,evcca,repair,nine,0
+P13-S0106,PRIMARY::P13 | LOAM | C,B006,79.8,U014,evcca,repair,nine,1
+P13-S0107,PRIMARY::P13 | LOAM | C,B006,84.5,U014,evcca,repair,nine,1
+P13-S0199,PRIMARY::P13 | LOAM | C,B012,74.3,U013,evcca,repair,nine,0
+P13-S0200,PRIMARY::P13 | LOAM | C,B012,80.0,U014,evcca,repair,nine,0
+P13-S0219,PRIMARY::P13 | LOAM | C,B013,41.0,U008,evcca,repair,nine,1
+P13-S0226,PRIMARY::P13 | LOAM | C,B013,78.0,U014,evcca,repair,nine,0
+P13-S0279,PRIMARY::P13 | LOAM | C,B017,42.4,U008,evcca,repair,nine,1
+P13-S0298,PRIMARY::P13 | LOAM | C,B018,42.0,U008,evcca,repair,nine,1
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,ordered,compact,nine,-1
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,ordered,compact,nine,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,ordered,compact,nine,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,ordered,compact,nine,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,ordered,compact,nine,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,ordered,compact,nine,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,ordered,compact,nine,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,ordered,compact,nine,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,ordered,compact,nine,0
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,evcca,compact,nine,-1
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,evcca,compact,nine,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,evcca,compact,nine,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,evcca,compact,nine,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,evcca,compact,nine,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,evcca,compact,nine,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,evcca,compact,nine,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,evcca,compact,nine,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,evcca,compact,nine,0
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,ordered,repair,nine,-1
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,ordered,repair,nine,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,ordered,repair,nine,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,ordered,repair,nine,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,ordered,repair,nine,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,ordered,repair,nine,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,ordered,repair,nine,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,ordered,repair,nine,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,ordered,repair,nine,0
+P13-S0011,PRIMARY::P13 | LOAM | f,B001,5.7,U017,evcca,repair,nine,-1
+P13-S0053,PRIMARY::P13 | LOAM | f,B003,7.8,U017,evcca,repair,nine,0
+P13-S0109,PRIMARY::P13 | LOAM | f,B006,7.0,U012,evcca,repair,nine,-1
+P13-S0138,PRIMARY::P13 | LOAM | f,B008,4.8,U018,evcca,repair,nine,0
+P13-S0161,PRIMARY::P13 | LOAM | f,B009,4.5,U018,evcca,repair,nine,0
+P13-S0166,PRIMARY::P13 | LOAM | f,B010,4.3,U018,evcca,repair,nine,0
+P13-S0182,PRIMARY::P13 | LOAM | f,B011,6.3,U018,evcca,repair,nine,0
+P13-S0285,PRIMARY::P13 | LOAM | f,B017,6.0,U018,evcca,repair,nine,0
+P13-S0325,PRIMARY::P13 | LOAM | f,B019,4.3,U017,evcca,repair,nine,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,ordered,compact,nine,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,ordered,compact,nine,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,ordered,compact,nine,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,ordered,compact,nine,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,ordered,compact,nine,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,ordered,compact,nine,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,ordered,compact,nine,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,ordered,compact,nine,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,ordered,compact,nine,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,ordered,compact,nine,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,evcca,compact,nine,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,evcca,compact,nine,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,evcca,compact,nine,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,evcca,compact,nine,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,evcca,compact,nine,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,evcca,compact,nine,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,evcca,compact,nine,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,evcca,compact,nine,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,evcca,compact,nine,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,evcca,compact,nine,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,ordered,repair,nine,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,ordered,repair,nine,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,ordered,repair,nine,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,ordered,repair,nine,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,ordered,repair,nine,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,ordered,repair,nine,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,ordered,repair,nine,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,ordered,repair,nine,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,ordered,repair,nine,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,ordered,repair,nine,0
+P13-S0054,PRIMARY::P13 | LOAM | g,B003,10.3,U017,evcca,repair,nine,-1
+P13-S0057,PRIMARY::P13 | LOAM | g,B003,16.8,U021,evcca,repair,nine,0
+P13-S0110,PRIMARY::P13 | LOAM | g,B006,10.3,U017,evcca,repair,nine,0
+P13-S0112,PRIMARY::P13 | LOAM | g,B006,19.0,U021,evcca,repair,nine,0
+P13-S0126,PRIMARY::P13 | LOAM | g,B007,17.0,U021,evcca,repair,nine,0
+P13-S0210,PRIMARY::P13 | LOAM | g,B012,19.0,U021,evcca,repair,nine,0
+P13-S0235,PRIMARY::P13 | LOAM | g,B014,4.5,U017,evcca,repair,nine,0
+P13-S0310,PRIMARY::P13 | LOAM | g,B018,20.0,U021,evcca,repair,nine,0
+P13-S0383,PRIMARY::P13 | LOAM | g,B024,20.5,U021,evcca,repair,nine,0
+P13-S0391,PRIMARY::P13 | LOAM | g,B025,4.3,U018,evcca,repair,nine,0
