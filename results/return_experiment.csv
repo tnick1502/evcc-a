@@ -1,0 +1,185 @@
+profile,context_id,mode,method,excluded_borehole,train_strict,test_n,assigned_new_n,augmented_groups,augmented_violating_groups
+four,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",compact,ordered,"Tolsa, Kirkkonummi::7A",False,15,0,0,0
+four,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",compact,evcca,"Tolsa, Kirkkonummi::7A",False,15,0,0,0
+four,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",compact,ordered,"Tolsa, Kirkkonummi::7B",False,5,0,0,0
+four,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",compact,evcca,"Tolsa, Kirkkonummi::7B",False,5,0,0,0
+four,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",compact,ordered,"Tolsa, Kirkkonummi::7C",True,4,4,2,2
+four,"FI::Tolsa, Kirkkonummi | CLAY | ILOT",compact,evcca,"Tolsa, Kirkkonummi::7C",True,4,4,2,2
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B001,True,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B001,True,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B002,True,1,1,1,1
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B002,True,1,1,1,1
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B003,True,1,1,1,1
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B003,True,1,1,1,1
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B004,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B004,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B005,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B005,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B006,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B006,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B007,True,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B007,True,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B008,True,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B008,True,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B009,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B009,False,1,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B010,False,2,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B010,False,2,0,0,0
+four,P09 | LOAM | m | sigma3=50.0,compact,ordered,B011,True,1,1,1,1
+four,P09 | LOAM | m | sigma3=50.0,compact,evcca,B011,True,1,1,1,1
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B001,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B001,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B002,False,3,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B002,False,3,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B005,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B005,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B006,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B006,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B007,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B007,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B008,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B008,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,ordered,B011,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,compact,evcca,B011,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B001,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B001,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B002,False,3,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B002,False,3,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B005,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B005,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B006,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B006,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B007,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B007,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B008,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B008,False,1,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,ordered,B011,False,2,0,0,0
+four,PRIMARY::P06 | CLAY | C,repair,evcca,B011,False,2,0,0,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B002,True,2,2,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B002,True,2,2,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B003,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B003,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B004,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B004,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B005,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B005,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B006,True,2,2,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B006,True,2,2,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B012,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B012,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B013,True,2,2,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B013,True,2,2,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B018,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B018,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,ordered,B024,True,1,1,1,0
+four,PRIMARY::P13 | CLAY | C,repair,evcca,B024,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B002,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B002,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B004,True,4,4,2,1
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B004,True,4,4,2,1
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B005,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B005,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B006,True,4,4,1,0
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B006,True,4,4,1,0
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B012,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B012,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B013,True,2,2,1,1
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B013,True,2,2,1,1
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B017,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B017,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,compact,ordered,B018,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,compact,evcca,B018,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B002,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B002,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B004,True,4,4,2,1
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B004,True,4,4,2,1
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B005,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B005,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B006,True,4,4,1,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B006,True,4,4,1,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B012,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B012,True,2,2,1,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B013,True,2,2,2,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B013,True,2,2,2,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B017,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B017,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,repair,ordered,B018,True,1,1,1,0
+four,PRIMARY::P13 | LOAM | C,repair,evcca,B018,True,1,1,1,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B001,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B001,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B002,False,3,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B002,False,3,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B005,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B005,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B006,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B006,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B007,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B007,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B008,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B008,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,ordered,B011,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,compact,evcca,B011,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B001,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B001,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B002,False,3,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B002,False,3,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B005,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B005,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B006,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B006,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B007,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B007,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B008,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B008,False,1,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,ordered,B011,False,2,0,0,0
+nine,PRIMARY::P06 | CLAY | C,repair,evcca,B011,False,2,0,0,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B002,True,2,2,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B002,True,2,2,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B003,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B003,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B004,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B004,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B005,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B005,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B006,True,2,2,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B006,True,2,2,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B012,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B012,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B013,True,2,2,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B013,True,2,2,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B018,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B018,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,ordered,B024,True,1,1,1,0
+nine,PRIMARY::P13 | CLAY | C,repair,evcca,B024,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B002,True,2,2,2,1
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B002,True,2,2,2,0
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B004,True,4,4,2,1
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B004,True,4,4,2,1
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B005,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B005,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B006,True,4,4,1,1
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B006,True,4,4,2,2
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B012,True,2,2,2,0
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B012,True,2,2,2,0
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B013,True,2,2,1,1
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B013,True,2,2,1,1
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B017,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B017,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,compact,ordered,B018,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,compact,evcca,B018,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B002,True,2,2,2,1
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B002,True,2,2,2,0
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B004,True,4,4,2,1
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B004,True,4,4,2,1
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B005,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B005,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B006,True,4,4,1,1
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B006,True,4,4,2,2
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B012,True,2,2,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B012,True,2,2,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B013,True,2,2,1,1
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B013,True,2,2,1,1
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B017,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B017,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,ordered,B018,True,1,1,1,0
+nine,PRIMARY::P13 | LOAM | C,repair,evcca,B018,True,1,1,1,0

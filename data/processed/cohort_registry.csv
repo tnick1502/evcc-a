@@ -1,0 +1,24 @@
+dataset,site_id,context_id,specimens,boreholes,active,excluded_because
+FI-CLAY,Haapa-Kimola,FI::Haapa-Kimola | CLAY | ILOT,24,2,True,
+FI-CLAY,Haarajoki,FI::Haarajoki | CLAY | ILOT,21,2,True,
+FI-CLAY,Söderkulla-Nikkilä,FI::Söderkulla-Nikkilä | CLAY | ILOT,18,4,True,
+FI-CLAY,"Tolsa, Kirkkonummi","FI::Tolsa, Kirkkonummi | CLAY | ILOT",24,3,True,
+FI-CLAY,Östersundom,FI::Östersundom | CLAY | ILOT,8,4,True,
+EXPORT,P07,P07 | LOAM | g | sigma3=100.0,12,11,True,
+EXPORT,P09,P09 | LOAM | m | sigma3=50.0,12,11,True,
+EXPORT,P11,P11 | LOAM | m | sigma3=65.0,14,14,False,export strength fields not comparable
+EXPORT,P12,P12 | LOAM | m | sigma3=50.0,19,10,False,export strength fields not comparable
+EXPORT,P15,P15 | LOAM | l | sigma3=50.0,12,8,True,
+EXPORT,P16,P16 | LOAM | g | sigma3=100.0,46,6,False,export strength fields not comparable
+EXPORT,P16,P16 | SANDY_LOAM | f | sigma3=100.0,12,3,False,export strength fields not comparable
+PRIMARY,P01,PRIMARY::P01 | CLAY | C,8,5,True,
+PRIMARY,P01,PRIMARY::P01 | CLAY | J,11,8,True,
+PRIMARY,P01,PRIMARY::P01 | LOAM | pr,10,8,True,
+PRIMARY,P06,PRIMARY::P06 | CLAY | C,12,7,True,
+PRIMARY,P08,PRIMARY::P08 | CLAY | C,11,5,True,
+PRIMARY,P08,PRIMARY::P08 | CLAY | J,8,5,True,
+PRIMARY,P08,PRIMARY::P08 | LOAM | C,8,4,True,
+PRIMARY,P13,PRIMARY::P13 | CLAY | C,12,9,True,
+PRIMARY,P13,PRIMARY::P13 | LOAM | C,17,8,True,
+PRIMARY,P13,PRIMARY::P13 | LOAM | f,9,9,True,
+PRIMARY,P13,PRIMARY::P13 | LOAM | g,10,8,True,

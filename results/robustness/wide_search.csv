@@ -1,0 +1,361 @@
+context_id,policy,mode,method,n,A,K,D,B,assigned_n,strict_accepted_n,strict_feasible,selected_group_violations,proposals,feasible_columns
+FI::Haapa-Kimola | CLAY | ILOT,nominal,compact,joined,24,18,1,116,0.007603549106391679,6,0,False,0,165,1
+FI::Haapa-Kimola | CLAY | ILOT,nominal,compact,graph_ward_wide,24,24,0,115,0.0,0,0,False,0,57,0
+FI::Haapa-Kimola | CLAY | ILOT,nominal,compact,spectral_cop_wide,24,18,1,116,0.007603549106391679,6,0,False,0,341,1
+FI::Haapa-Kimola | CLAY | ILOT,nominal,compact,joined_wide,24,18,1,116,0.007603549106391679,6,0,False,0,379,1
+FI::Haapa-Kimola | CLAY | ILOT,nu_5pct,compact,joined,24,18,1,122,0.0061837357246500345,6,0,False,0,165,1
+FI::Haapa-Kimola | CLAY | ILOT,nu_5pct,compact,graph_ward_wide,24,24,0,115,0.0,0,0,False,0,57,0
+FI::Haapa-Kimola | CLAY | ILOT,nu_5pct,compact,spectral_cop_wide,24,18,1,122,0.0061837357246500345,6,0,False,0,341,1
+FI::Haapa-Kimola | CLAY | ILOT,nu_5pct,compact,joined_wide,24,18,1,122,0.0061837357246500345,6,0,False,0,379,1
+FI::Haapa-Kimola | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined,24,24,0,115,0.0,0,0,False,0,165,0
+FI::Haapa-Kimola | CLAY | ILOT,cv_10pct_nu_5pct,compact,graph_ward_wide,24,24,0,115,0.0,0,0,False,0,57,0
+FI::Haapa-Kimola | CLAY | ILOT,cv_10pct_nu_5pct,compact,spectral_cop_wide,24,24,0,115,0.0,0,0,False,0,341,0
+FI::Haapa-Kimola | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined_wide,24,24,0,115,0.0,0,0,False,0,379,0
+FI::Haarajoki | CLAY | ILOT,nominal,compact,joined,21,5,1,90,0.017052864011028717,16,0,False,0,44,18
+FI::Haarajoki | CLAY | ILOT,nominal,compact,graph_ward_wide,21,5,1,90,0.017052864011028717,16,0,False,0,44,18
+FI::Haarajoki | CLAY | ILOT,nominal,compact,spectral_cop_wide,21,5,1,90,0.017052864011028717,16,0,False,0,22,28
+FI::Haarajoki | CLAY | ILOT,nominal,compact,joined_wide,21,5,1,90,0.017052864011028717,16,0,False,0,55,29
+FI::Haarajoki | CLAY | ILOT,nu_5pct,compact,joined,21,5,1,90,0.017052864011028717,16,0,False,0,44,16
+FI::Haarajoki | CLAY | ILOT,nu_5pct,compact,graph_ward_wide,21,5,1,90,0.017052864011028717,16,0,False,0,44,16
+FI::Haarajoki | CLAY | ILOT,nu_5pct,compact,spectral_cop_wide,21,5,1,90,0.017052864011028717,16,0,False,0,22,27
+FI::Haarajoki | CLAY | ILOT,nu_5pct,compact,joined_wide,21,5,1,90,0.017052864011028717,16,0,False,0,55,27
+FI::Haarajoki | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined,21,5,1,90,0.017052864011028717,16,0,False,0,44,15
+FI::Haarajoki | CLAY | ILOT,cv_10pct_nu_5pct,compact,graph_ward_wide,21,5,1,90,0.017052864011028717,16,0,False,0,44,15
+FI::Haarajoki | CLAY | ILOT,cv_10pct_nu_5pct,compact,spectral_cop_wide,21,5,1,90,0.017052864011028717,16,0,False,0,22,26
+FI::Haarajoki | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined_wide,21,5,1,90,0.017052864011028717,16,0,False,0,55,26
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nominal,compact,joined,18,11,1,63,0.005540691652961904,7,0,False,0,56,3
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nominal,compact,graph_ward_wide,18,11,1,63,0.005540691652961904,7,0,False,0,35,2
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nominal,compact,spectral_cop_wide,18,11,1,63,0.005540691652961904,7,0,False,0,93,3
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nominal,compact,joined_wide,18,11,1,63,0.005540691652961904,7,0,False,0,118,3
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nu_5pct,compact,joined,18,11,1,63,0.005540691652961904,7,0,False,0,56,3
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nu_5pct,compact,graph_ward_wide,18,11,1,63,0.005540691652961904,7,0,False,0,35,2
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nu_5pct,compact,spectral_cop_wide,18,11,1,63,0.005540691652961904,7,0,False,0,93,3
+FI::Söderkulla-Nikkilä | CLAY | ILOT,nu_5pct,compact,joined_wide,18,11,1,63,0.005540691652961904,7,0,False,0,118,3
+FI::Söderkulla-Nikkilä | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined,18,11,1,63,0.005540691652961904,7,0,False,0,56,2
+FI::Söderkulla-Nikkilä | CLAY | ILOT,cv_10pct_nu_5pct,compact,graph_ward_wide,18,11,1,63,0.005540691652961904,7,0,False,0,35,2
+FI::Söderkulla-Nikkilä | CLAY | ILOT,cv_10pct_nu_5pct,compact,spectral_cop_wide,18,11,1,63,0.005540691652961904,7,0,False,0,93,2
+FI::Söderkulla-Nikkilä | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined_wide,18,11,1,63,0.005540691652961904,7,0,False,0,118,2
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nominal,compact,joined,24,0,3,113,0.01584380827423991,24,24,True,0,220,135
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nominal,compact,graph_ward_wide,24,1,3,133,0.011917636828608792,23,23,True,0,47,23
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nominal,compact,spectral_cop_wide,24,0,2,80,0.0227857780462419,24,24,True,0,651,301
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nominal,compact,joined_wide,24,0,2,80,0.0227857780462419,24,24,True,0,673,301
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nu_5pct,compact,joined,24,2,2,105,0.02168788336146672,22,22,True,0,220,109
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nu_5pct,compact,graph_ward_wide,24,2,3,140,0.010069719453847114,22,22,True,0,47,15
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nu_5pct,compact,spectral_cop_wide,24,0,4,144,0.013416606020936387,24,24,True,0,651,240
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",nu_5pct,compact,joined_wide,24,0,4,144,0.013416606020936387,24,24,True,0,673,240
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",cv_10pct_nu_5pct,compact,joined,24,2,3,141,0.009929755872550673,22,22,True,0,220,109
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",cv_10pct_nu_5pct,compact,graph_ward_wide,24,2,3,140,0.010069719453847114,22,22,True,0,47,15
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",cv_10pct_nu_5pct,compact,spectral_cop_wide,24,1,3,129,0.012322256391112854,23,23,True,0,651,222
+"FI::Tolsa, Kirkkonummi | CLAY | ILOT",cv_10pct_nu_5pct,compact,joined_wide,24,1,3,129,0.012322256391112854,23,23,True,0,673,222
+FI::Östersundom | CLAY | ILOT,nominal,compact,joined,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,nominal,compact,graph_ward_wide,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,nominal,compact,spectral_cop_wide,8,8,0,9,0.0,0,0,False,0,1,0
+FI::Östersundom | CLAY | ILOT,nominal,compact,joined_wide,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,nu_5pct,compact,joined,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,nu_5pct,compact,graph_ward_wide,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,nu_5pct,compact,spectral_cop_wide,8,8,0,9,0.0,0,0,False,0,1,0
+FI::Östersundom | CLAY | ILOT,nu_5pct,compact,joined_wide,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,cv_10pct_nu_5pct,compact,graph_ward_wide,8,8,0,9,0.0,0,0,False,0,17,0
+FI::Östersundom | CLAY | ILOT,cv_10pct_nu_5pct,compact,spectral_cop_wide,8,8,0,9,0.0,0,0,False,0,1,0
+FI::Östersundom | CLAY | ILOT,cv_10pct_nu_5pct,compact,joined_wide,8,8,0,9,0.0,0,0,False,0,17,0
+P07 | LOAM | g | sigma3=100.0,nominal,compact,joined,12,0,1,36,0.008341162287255037,12,12,True,0,28,15
+P07 | LOAM | g | sigma3=100.0,nominal,compact,graph_ward_wide,12,0,1,36,0.008341162287255037,12,12,True,0,24,11
+P07 | LOAM | g | sigma3=100.0,nominal,compact,spectral_cop_wide,12,0,1,36,0.008341162287255037,12,12,True,0,23,30
+P07 | LOAM | g | sigma3=100.0,nominal,compact,joined_wide,12,0,1,36,0.008341162287255037,12,12,True,0,42,32
+P07 | LOAM | g | sigma3=100.0,nu_5pct,compact,joined,12,0,1,36,0.008341162287255037,12,12,True,0,28,18
+P07 | LOAM | g | sigma3=100.0,nu_5pct,compact,graph_ward_wide,12,0,1,36,0.008341162287255037,12,12,True,0,24,14
+P07 | LOAM | g | sigma3=100.0,nu_5pct,compact,spectral_cop_wide,12,0,1,36,0.008341162287255037,12,12,True,0,23,28
+P07 | LOAM | g | sigma3=100.0,nu_5pct,compact,joined_wide,12,0,1,36,0.008341162287255037,12,12,True,0,42,30
+P07 | LOAM | g | sigma3=100.0,cv_10pct_nu_5pct,compact,joined,12,0,1,36,0.008341162287255037,12,12,True,0,28,18
+P07 | LOAM | g | sigma3=100.0,cv_10pct_nu_5pct,compact,graph_ward_wide,12,0,1,36,0.008341162287255037,12,12,True,0,24,14
+P07 | LOAM | g | sigma3=100.0,cv_10pct_nu_5pct,compact,spectral_cop_wide,12,0,1,36,0.008341162287255037,12,12,True,0,23,28
+P07 | LOAM | g | sigma3=100.0,cv_10pct_nu_5pct,compact,joined_wide,12,0,1,36,0.008341162287255037,12,12,True,0,42,30
+P09 | LOAM | m | sigma3=50.0,nominal,compact,joined,12,1,1,51,0.02439288785974533,11,11,True,0,31,11
+P09 | LOAM | m | sigma3=50.0,nominal,compact,graph_ward_wide,12,1,1,51,0.02439288785974533,11,11,True,0,25,7
+P09 | LOAM | m | sigma3=50.0,nominal,compact,spectral_cop_wide,12,1,1,51,0.02439288785974533,11,11,True,0,17,19
+P09 | LOAM | m | sigma3=50.0,nominal,compact,joined_wide,12,1,1,51,0.02439288785974533,11,11,True,0,39,19
+P09 | LOAM | m | sigma3=50.0,nu_5pct,compact,joined,12,1,1,51,0.02439288785974533,11,11,True,0,31,11
+P09 | LOAM | m | sigma3=50.0,nu_5pct,compact,graph_ward_wide,12,1,1,51,0.02439288785974533,11,11,True,0,25,7
+P09 | LOAM | m | sigma3=50.0,nu_5pct,compact,spectral_cop_wide,12,1,1,51,0.02439288785974533,11,11,True,0,17,18
+P09 | LOAM | m | sigma3=50.0,nu_5pct,compact,joined_wide,12,1,1,51,0.02439288785974533,11,11,True,0,39,18
+P09 | LOAM | m | sigma3=50.0,cv_10pct_nu_5pct,compact,joined,12,3,1,38,0.014383442141994883,9,0,False,0,31,9
+P09 | LOAM | m | sigma3=50.0,cv_10pct_nu_5pct,compact,graph_ward_wide,12,3,1,38,0.014383442141994883,9,0,False,0,25,5
+P09 | LOAM | m | sigma3=50.0,cv_10pct_nu_5pct,compact,spectral_cop_wide,12,3,1,38,0.011987363380525933,9,0,False,0,17,14
+P09 | LOAM | m | sigma3=50.0,cv_10pct_nu_5pct,compact,joined_wide,12,3,1,38,0.011987363380525933,9,0,False,0,39,14
+P15 | LOAM | l | sigma3=50.0,nominal,compact,joined,12,4,1,22,0.013468501518606034,8,0,False,0,32,4
+P15 | LOAM | l | sigma3=50.0,nominal,compact,graph_ward_wide,12,4,1,22,0.013468501518606034,8,0,False,0,29,4
+P15 | LOAM | l | sigma3=50.0,nominal,compact,spectral_cop_wide,12,4,1,22,0.013468501518606034,8,0,False,0,15,4
+P15 | LOAM | l | sigma3=50.0,nominal,compact,joined_wide,12,4,1,22,0.013468501518606034,8,0,False,0,36,4
+P15 | LOAM | l | sigma3=50.0,nu_5pct,compact,joined,12,6,1,9,0.0022821179841497267,6,0,False,0,32,2
+P15 | LOAM | l | sigma3=50.0,nu_5pct,compact,graph_ward_wide,12,6,1,9,0.0022821179841497267,6,0,False,0,29,1
+P15 | LOAM | l | sigma3=50.0,nu_5pct,compact,spectral_cop_wide,12,6,1,9,0.0022821179841497267,6,0,False,0,15,2
+P15 | LOAM | l | sigma3=50.0,nu_5pct,compact,joined_wide,12,6,1,9,0.0022821179841497267,6,0,False,0,36,2
+P15 | LOAM | l | sigma3=50.0,cv_10pct_nu_5pct,compact,joined,12,6,1,9,0.0022821179841497267,6,0,False,0,32,1
+P15 | LOAM | l | sigma3=50.0,cv_10pct_nu_5pct,compact,graph_ward_wide,12,6,1,9,0.0022821179841497267,6,0,False,0,29,1
+P15 | LOAM | l | sigma3=50.0,cv_10pct_nu_5pct,compact,spectral_cop_wide,12,6,1,9,0.0022821179841497267,6,0,False,0,15,1
+P15 | LOAM | l | sigma3=50.0,cv_10pct_nu_5pct,compact,joined_wide,12,6,1,9,0.0022821179841497267,6,0,False,0,36,1
+PRIMARY::P01 | CLAY | C,nominal,compact,joined,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nominal,repair,joined,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nominal,compact,graph_ward_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nominal,repair,graph_ward_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nominal,compact,spectral_cop_wide,8,2,1,8,0.009036823416498535,6,0,False,0,1,1
+PRIMARY::P01 | CLAY | C,nominal,repair,spectral_cop_wide,8,2,1,8,0.009036823416498535,6,0,False,0,1,1
+PRIMARY::P01 | CLAY | C,nominal,compact,joined_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nominal,repair,joined_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nu_5pct,compact,joined,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nu_5pct,repair,joined,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nu_5pct,compact,graph_ward_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nu_5pct,repair,graph_ward_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nu_5pct,compact,spectral_cop_wide,8,2,1,8,0.009036823416498535,6,0,False,0,1,1
+PRIMARY::P01 | CLAY | C,nu_5pct,repair,spectral_cop_wide,8,2,1,8,0.009036823416498535,6,0,False,0,1,1
+PRIMARY::P01 | CLAY | C,nu_5pct,compact,joined_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,nu_5pct,repair,joined_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,compact,joined,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,repair,joined,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,compact,graph_ward_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,repair,graph_ward_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,compact,spectral_cop_wide,8,2,1,8,0.009036823416498535,6,0,False,0,1,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,repair,spectral_cop_wide,8,2,1,8,0.009036823416498535,6,0,False,0,1,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,compact,joined_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | C,cv_10pct_nu_5pct,repair,joined_wide,8,2,1,8,0.009036823416498535,6,0,False,0,15,1
+PRIMARY::P01 | CLAY | J,nominal,compact,joined,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nominal,repair,joined,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nominal,compact,graph_ward_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nominal,repair,graph_ward_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nominal,compact,spectral_cop_wide,11,2,1,20,0.022879106156734313,9,0,False,0,1,4
+PRIMARY::P01 | CLAY | J,nominal,repair,spectral_cop_wide,11,2,1,20,0.022879106156734313,9,0,False,0,1,4
+PRIMARY::P01 | CLAY | J,nominal,compact,joined_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nominal,repair,joined_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nu_5pct,compact,joined,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nu_5pct,repair,joined,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nu_5pct,compact,graph_ward_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nu_5pct,repair,graph_ward_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nu_5pct,compact,spectral_cop_wide,11,2,1,20,0.022879106156734313,9,0,False,0,1,4
+PRIMARY::P01 | CLAY | J,nu_5pct,repair,spectral_cop_wide,11,2,1,20,0.022879106156734313,9,0,False,0,1,4
+PRIMARY::P01 | CLAY | J,nu_5pct,compact,joined_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,nu_5pct,repair,joined_wide,11,2,1,20,0.022879106156734313,9,0,False,0,21,4
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,compact,joined,11,4,1,15,0.01606561969586882,7,0,False,0,21,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,repair,joined,11,4,1,15,0.01606561969586882,7,0,False,0,21,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,compact,graph_ward_wide,11,4,1,15,0.01606561969586882,7,0,False,0,21,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,repair,graph_ward_wide,11,4,1,15,0.01606561969586882,7,0,False,0,21,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,compact,spectral_cop_wide,11,4,1,15,0.01606561969586882,7,0,False,0,1,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,repair,spectral_cop_wide,11,4,1,15,0.01606561969586882,7,0,False,0,1,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,compact,joined_wide,11,4,1,15,0.01606561969586882,7,0,False,0,21,2
+PRIMARY::P01 | CLAY | J,cv_10pct_nu_5pct,repair,joined_wide,11,4,1,15,0.01606561969586882,7,0,False,0,21,2
+PRIMARY::P01 | LOAM | pr,nominal,compact,joined,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nominal,repair,joined,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nominal,compact,graph_ward_wide,10,4,1,15,0.014774222700489264,6,0,False,0,19,1
+PRIMARY::P01 | LOAM | pr,nominal,repair,graph_ward_wide,10,4,1,15,0.014774222700489264,6,0,False,0,19,1
+PRIMARY::P01 | LOAM | pr,nominal,compact,spectral_cop_wide,10,4,1,15,0.014774222700489264,6,0,False,0,1,1
+PRIMARY::P01 | LOAM | pr,nominal,repair,spectral_cop_wide,10,4,1,15,0.014774222700489264,6,0,False,0,1,1
+PRIMARY::P01 | LOAM | pr,nominal,compact,joined_wide,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nominal,repair,joined_wide,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,compact,joined,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,repair,joined,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,compact,graph_ward_wide,10,4,1,15,0.014774222700489264,6,0,False,0,19,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,repair,graph_ward_wide,10,4,1,15,0.014774222700489264,6,0,False,0,19,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,compact,spectral_cop_wide,10,4,1,15,0.014774222700489264,6,0,False,0,1,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,repair,spectral_cop_wide,10,4,1,15,0.014774222700489264,6,0,False,0,1,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,compact,joined_wide,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,nu_5pct,repair,joined_wide,10,4,1,15,0.014774222700489264,6,0,False,0,20,1
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,compact,joined,10,10,0,14,0.0,0,0,False,0,20,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,repair,joined,10,10,0,14,0.0,0,0,False,0,20,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,compact,graph_ward_wide,10,10,0,14,0.0,0,0,False,0,19,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,repair,graph_ward_wide,10,10,0,14,0.0,0,0,False,0,19,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,compact,spectral_cop_wide,10,10,0,14,0.0,0,0,False,0,1,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,repair,spectral_cop_wide,10,10,0,14,0.0,0,0,False,0,1,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,compact,joined_wide,10,10,0,14,0.0,0,0,False,0,20,0
+PRIMARY::P01 | LOAM | pr,cv_10pct_nu_5pct,repair,joined_wide,10,10,0,14,0.0,0,0,False,0,20,0
+PRIMARY::P06 | CLAY | C,nominal,compact,joined,12,0,2,0,0.005443278490525085,12,12,True,0,26,13
+PRIMARY::P06 | CLAY | C,nominal,repair,joined,12,0,2,0,0.005443278490525085,12,12,True,0,26,13
+PRIMARY::P06 | CLAY | C,nominal,compact,graph_ward_wide,12,0,2,0,0.005443278490525085,12,12,True,0,23,10
+PRIMARY::P06 | CLAY | C,nominal,repair,graph_ward_wide,12,0,2,0,0.005443278490525085,12,12,True,0,23,10
+PRIMARY::P06 | CLAY | C,nominal,compact,spectral_cop_wide,12,0,2,0,0.005443278490525085,12,12,True,0,14,15
+PRIMARY::P06 | CLAY | C,nominal,repair,spectral_cop_wide,12,0,2,0,0.005443278490525085,12,12,True,0,14,15
+PRIMARY::P06 | CLAY | C,nominal,compact,joined_wide,12,0,2,0,0.005443278490525085,12,12,True,0,35,15
+PRIMARY::P06 | CLAY | C,nominal,repair,joined_wide,12,0,2,0,0.005443278490525085,12,12,True,0,35,15
+PRIMARY::P06 | CLAY | C,nu_5pct,compact,joined,12,3,1,34,0.002286125409200163,9,0,False,0,26,10
+PRIMARY::P06 | CLAY | C,nu_5pct,repair,joined,12,3,1,34,0.002286125409200163,9,0,False,0,26,10
+PRIMARY::P06 | CLAY | C,nu_5pct,compact,graph_ward_wide,12,3,1,34,0.002286125409200163,9,0,False,0,23,9
+PRIMARY::P06 | CLAY | C,nu_5pct,repair,graph_ward_wide,12,3,1,34,0.002286125409200163,9,0,False,0,23,9
+PRIMARY::P06 | CLAY | C,nu_5pct,compact,spectral_cop_wide,12,3,1,34,0.002286125409200163,9,0,False,0,14,17
+PRIMARY::P06 | CLAY | C,nu_5pct,repair,spectral_cop_wide,12,3,1,34,0.002286125409200163,9,0,False,0,14,17
+PRIMARY::P06 | CLAY | C,nu_5pct,compact,joined_wide,12,3,1,34,0.002286125409200163,9,0,False,0,35,17
+PRIMARY::P06 | CLAY | C,nu_5pct,repair,joined_wide,12,3,1,34,0.002286125409200163,9,0,False,0,35,17
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,compact,joined,12,3,1,34,0.002286125409200163,9,0,False,0,26,10
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,repair,joined,12,3,1,34,0.002286125409200163,9,0,False,0,26,10
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,compact,graph_ward_wide,12,3,1,34,0.002286125409200163,9,0,False,0,23,9
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,repair,graph_ward_wide,12,3,1,34,0.002286125409200163,9,0,False,0,23,9
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,compact,spectral_cop_wide,12,3,1,34,0.002286125409200163,9,0,False,0,14,17
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,repair,spectral_cop_wide,12,3,1,34,0.002286125409200163,9,0,False,0,14,17
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,compact,joined_wide,12,3,1,34,0.002286125409200163,9,0,False,0,35,17
+PRIMARY::P06 | CLAY | C,cv_10pct_nu_5pct,repair,joined_wide,12,3,1,34,0.002286125409200163,9,0,False,0,35,17
+PRIMARY::P08 | CLAY | C,nominal,compact,joined,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nominal,repair,joined,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nominal,compact,graph_ward_wide,11,3,1,27,0.005522643634719022,8,0,False,0,20,6
+PRIMARY::P08 | CLAY | C,nominal,repair,graph_ward_wide,11,3,1,27,0.005522643634719022,8,0,False,0,20,6
+PRIMARY::P08 | CLAY | C,nominal,compact,spectral_cop_wide,11,3,1,27,0.005522643634719022,8,0,False,0,1,6
+PRIMARY::P08 | CLAY | C,nominal,repair,spectral_cop_wide,11,3,1,27,0.005522643634719022,8,0,False,0,1,6
+PRIMARY::P08 | CLAY | C,nominal,compact,joined_wide,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nominal,repair,joined_wide,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nu_5pct,compact,joined,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nu_5pct,repair,joined,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nu_5pct,compact,graph_ward_wide,11,3,1,27,0.005522643634719022,8,0,False,0,20,6
+PRIMARY::P08 | CLAY | C,nu_5pct,repair,graph_ward_wide,11,3,1,27,0.005522643634719022,8,0,False,0,20,6
+PRIMARY::P08 | CLAY | C,nu_5pct,compact,spectral_cop_wide,11,3,1,27,0.005522643634719022,8,0,False,0,1,6
+PRIMARY::P08 | CLAY | C,nu_5pct,repair,spectral_cop_wide,11,3,1,27,0.005522643634719022,8,0,False,0,1,6
+PRIMARY::P08 | CLAY | C,nu_5pct,compact,joined_wide,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,nu_5pct,repair,joined_wide,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,compact,joined,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,repair,joined,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,compact,graph_ward_wide,11,3,1,27,0.005522643634719022,8,0,False,0,20,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,repair,graph_ward_wide,11,3,1,27,0.005522643634719022,8,0,False,0,20,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,compact,spectral_cop_wide,11,3,1,27,0.005522643634719022,8,0,False,0,1,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,repair,spectral_cop_wide,11,3,1,27,0.005522643634719022,8,0,False,0,1,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,compact,joined_wide,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | C,cv_10pct_nu_5pct,repair,joined_wide,11,3,1,27,0.005522643634719022,8,0,False,0,21,6
+PRIMARY::P08 | CLAY | J,nominal,compact,joined,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nominal,repair,joined,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nominal,compact,graph_ward_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nominal,repair,graph_ward_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nominal,compact,spectral_cop_wide,8,1,1,15,0.002045486851896217,7,7,True,0,1,2
+PRIMARY::P08 | CLAY | J,nominal,repair,spectral_cop_wide,8,1,1,15,0.002045486851896217,7,7,True,0,1,2
+PRIMARY::P08 | CLAY | J,nominal,compact,joined_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nominal,repair,joined_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nu_5pct,compact,joined,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nu_5pct,repair,joined,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nu_5pct,compact,graph_ward_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nu_5pct,repair,graph_ward_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nu_5pct,compact,spectral_cop_wide,8,1,1,15,0.002045486851896217,7,7,True,0,1,2
+PRIMARY::P08 | CLAY | J,nu_5pct,repair,spectral_cop_wide,8,1,1,15,0.002045486851896217,7,7,True,0,1,2
+PRIMARY::P08 | CLAY | J,nu_5pct,compact,joined_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,nu_5pct,repair,joined_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,compact,joined,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,repair,joined,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,compact,graph_ward_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,repair,graph_ward_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,compact,spectral_cop_wide,8,1,1,15,0.002045486851896217,7,7,True,0,1,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,repair,spectral_cop_wide,8,1,1,15,0.002045486851896217,7,7,True,0,1,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,compact,joined_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | CLAY | J,cv_10pct_nu_5pct,repair,joined_wide,8,1,1,15,0.002045486851896217,7,7,True,0,15,2
+PRIMARY::P08 | LOAM | C,nominal,compact,joined,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nominal,repair,joined,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nominal,compact,graph_ward_wide,8,1,1,7,0.007212427039516475,7,7,True,0,14,3
+PRIMARY::P08 | LOAM | C,nominal,repair,graph_ward_wide,8,1,1,7,0.007212427039516475,7,7,True,0,14,3
+PRIMARY::P08 | LOAM | C,nominal,compact,spectral_cop_wide,8,1,1,7,0.007212427039516475,7,7,True,0,1,3
+PRIMARY::P08 | LOAM | C,nominal,repair,spectral_cop_wide,8,1,1,7,0.007212427039516475,7,7,True,0,1,3
+PRIMARY::P08 | LOAM | C,nominal,compact,joined_wide,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nominal,repair,joined_wide,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nu_5pct,compact,joined,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nu_5pct,repair,joined,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nu_5pct,compact,graph_ward_wide,8,1,1,7,0.007212427039516475,7,7,True,0,14,3
+PRIMARY::P08 | LOAM | C,nu_5pct,repair,graph_ward_wide,8,1,1,7,0.007212427039516475,7,7,True,0,14,3
+PRIMARY::P08 | LOAM | C,nu_5pct,compact,spectral_cop_wide,8,1,1,7,0.007212427039516475,7,7,True,0,1,3
+PRIMARY::P08 | LOAM | C,nu_5pct,repair,spectral_cop_wide,8,1,1,7,0.007212427039516475,7,7,True,0,1,3
+PRIMARY::P08 | LOAM | C,nu_5pct,compact,joined_wide,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,nu_5pct,repair,joined_wide,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,compact,joined,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,repair,joined,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,compact,graph_ward_wide,8,1,1,7,0.007212427039516475,7,7,True,0,14,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,repair,graph_ward_wide,8,1,1,7,0.007212427039516475,7,7,True,0,14,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,compact,spectral_cop_wide,8,1,1,7,0.007212427039516475,7,7,True,0,1,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,repair,spectral_cop_wide,8,1,1,7,0.007212427039516475,7,7,True,0,1,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,compact,joined_wide,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P08 | LOAM | C,cv_10pct_nu_5pct,repair,joined_wide,8,1,1,7,0.007212427039516475,7,7,True,0,15,3
+PRIMARY::P13 | CLAY | C,nominal,compact,joined,12,0,1,36,0.005572964161283071,12,12,True,0,25,11
+PRIMARY::P13 | CLAY | C,nominal,repair,joined,12,0,2,0,0.004825277847452233,12,12,True,0,25,11
+PRIMARY::P13 | CLAY | C,nominal,compact,graph_ward_wide,12,0,1,36,0.005572964161283071,12,12,True,0,25,13
+PRIMARY::P13 | CLAY | C,nominal,repair,graph_ward_wide,12,0,2,0,0.004825277847452233,12,12,True,0,25,13
+PRIMARY::P13 | CLAY | C,nominal,compact,spectral_cop_wide,12,0,1,36,0.005572964161283071,12,12,True,0,19,27
+PRIMARY::P13 | CLAY | C,nominal,repair,spectral_cop_wide,12,0,2,0,0.004825277847452233,12,12,True,0,19,27
+PRIMARY::P13 | CLAY | C,nominal,compact,joined_wide,12,0,1,36,0.005572964161283071,12,12,True,0,36,27
+PRIMARY::P13 | CLAY | C,nominal,repair,joined_wide,12,0,2,0,0.004825277847452233,12,12,True,0,36,27
+PRIMARY::P13 | CLAY | C,nu_5pct,compact,joined,12,0,1,36,0.005572964161283071,12,12,True,0,25,10
+PRIMARY::P13 | CLAY | C,nu_5pct,repair,joined,12,0,1,36,0.005572964161283071,12,12,True,0,25,10
+PRIMARY::P13 | CLAY | C,nu_5pct,compact,graph_ward_wide,12,0,1,36,0.005572964161283071,12,12,True,0,25,12
+PRIMARY::P13 | CLAY | C,nu_5pct,repair,graph_ward_wide,12,0,1,36,0.005572964161283071,12,12,True,0,25,12
+PRIMARY::P13 | CLAY | C,nu_5pct,compact,spectral_cop_wide,12,0,1,36,0.005572964161283071,12,12,True,0,19,26
+PRIMARY::P13 | CLAY | C,nu_5pct,repair,spectral_cop_wide,12,0,2,32,0.0029640717649555325,12,12,True,0,19,26
+PRIMARY::P13 | CLAY | C,nu_5pct,compact,joined_wide,12,0,1,36,0.005572964161283071,12,12,True,0,36,26
+PRIMARY::P13 | CLAY | C,nu_5pct,repair,joined_wide,12,0,2,32,0.0029640717649555325,12,12,True,0,36,26
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,compact,joined,12,0,1,36,0.005572964161283071,12,12,True,0,25,10
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,repair,joined,12,0,1,36,0.005572964161283071,12,12,True,0,25,10
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,compact,graph_ward_wide,12,0,1,36,0.005572964161283071,12,12,True,0,25,12
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,repair,graph_ward_wide,12,0,1,36,0.005572964161283071,12,12,True,0,25,12
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,compact,spectral_cop_wide,12,0,1,36,0.005572964161283071,12,12,True,0,19,26
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,repair,spectral_cop_wide,12,0,2,32,0.0029640717649555325,12,12,True,0,19,26
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,compact,joined_wide,12,0,1,36,0.005572964161283071,12,12,True,0,36,26
+PRIMARY::P13 | CLAY | C,cv_10pct_nu_5pct,repair,joined_wide,12,0,2,32,0.0029640717649555325,12,12,True,0,36,26
+PRIMARY::P13 | LOAM | C,nominal,compact,joined,17,0,2,39,0.011645850705088232,17,17,True,0,57,80
+PRIMARY::P13 | LOAM | C,nominal,repair,joined,17,0,2,39,0.011645850705088232,17,17,True,0,57,80
+PRIMARY::P13 | LOAM | C,nominal,compact,graph_ward_wide,17,0,2,39,0.011645850705088232,17,17,True,0,33,31
+PRIMARY::P13 | LOAM | C,nominal,repair,graph_ward_wide,17,0,2,39,0.011645850705088232,17,17,True,0,33,31
+PRIMARY::P13 | LOAM | C,nominal,compact,spectral_cop_wide,17,0,2,59,0.010915810622042128,17,17,True,0,44,116
+PRIMARY::P13 | LOAM | C,nominal,repair,spectral_cop_wide,17,0,2,39,0.011645850705088232,17,17,True,0,44,116
+PRIMARY::P13 | LOAM | C,nominal,compact,joined_wide,17,0,2,59,0.010915810622042128,17,17,True,0,76,116
+PRIMARY::P13 | LOAM | C,nominal,repair,joined_wide,17,0,2,39,0.011645850705088232,17,17,True,0,76,116
+PRIMARY::P13 | LOAM | C,nu_5pct,compact,joined,17,0,2,39,0.011645850705088232,17,17,True,0,57,74
+PRIMARY::P13 | LOAM | C,nu_5pct,repair,joined,17,0,2,39,0.011645850705088232,17,17,True,0,57,74
+PRIMARY::P13 | LOAM | C,nu_5pct,compact,graph_ward_wide,17,0,2,39,0.011645850705088232,17,17,True,0,33,28
+PRIMARY::P13 | LOAM | C,nu_5pct,repair,graph_ward_wide,17,0,2,39,0.011645850705088232,17,17,True,0,33,28
+PRIMARY::P13 | LOAM | C,nu_5pct,compact,spectral_cop_wide,17,0,2,59,0.010915810622042128,17,17,True,0,44,109
+PRIMARY::P13 | LOAM | C,nu_5pct,repair,spectral_cop_wide,17,0,2,39,0.011645850705088232,17,17,True,0,44,109
+PRIMARY::P13 | LOAM | C,nu_5pct,compact,joined_wide,17,0,2,59,0.010915810622042128,17,17,True,0,76,109
+PRIMARY::P13 | LOAM | C,nu_5pct,repair,joined_wide,17,0,2,39,0.011645850705088232,17,17,True,0,76,109
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,compact,joined,17,0,2,39,0.011645850705088232,17,17,True,0,57,74
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,repair,joined,17,0,2,39,0.011645850705088232,17,17,True,0,57,74
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,compact,graph_ward_wide,17,0,2,39,0.011645850705088232,17,17,True,0,33,28
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,repair,graph_ward_wide,17,0,2,39,0.011645850705088232,17,17,True,0,33,28
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,compact,spectral_cop_wide,17,0,2,59,0.010915810622042128,17,17,True,0,44,109
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,repair,spectral_cop_wide,17,0,2,39,0.011645850705088232,17,17,True,0,44,109
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,compact,joined_wide,17,0,2,59,0.010915810622042128,17,17,True,0,76,109
+PRIMARY::P13 | LOAM | C,cv_10pct_nu_5pct,repair,joined_wide,17,0,2,39,0.011645850705088232,17,17,True,0,76,109
+PRIMARY::P13 | LOAM | f,nominal,compact,joined,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nominal,repair,joined,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nominal,compact,graph_ward_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nominal,repair,graph_ward_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nominal,compact,spectral_cop_wide,9,1,1,15,0.008369496937071032,8,8,True,0,1,3
+PRIMARY::P13 | LOAM | f,nominal,repair,spectral_cop_wide,9,1,1,15,0.008369496937071032,8,8,True,0,1,3
+PRIMARY::P13 | LOAM | f,nominal,compact,joined_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nominal,repair,joined_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nu_5pct,compact,joined,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nu_5pct,repair,joined,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nu_5pct,compact,graph_ward_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nu_5pct,repair,graph_ward_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nu_5pct,compact,spectral_cop_wide,9,1,1,15,0.008369496937071032,8,8,True,0,1,3
+PRIMARY::P13 | LOAM | f,nu_5pct,repair,spectral_cop_wide,9,1,1,15,0.008369496937071032,8,8,True,0,1,3
+PRIMARY::P13 | LOAM | f,nu_5pct,compact,joined_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,nu_5pct,repair,joined_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,compact,joined,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,repair,joined,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,compact,graph_ward_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,repair,graph_ward_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,compact,spectral_cop_wide,9,1,1,15,0.008369496937071032,8,8,True,0,1,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,repair,spectral_cop_wide,9,1,1,15,0.008369496937071032,8,8,True,0,1,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,compact,joined_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | f,cv_10pct_nu_5pct,repair,joined_wide,9,1,1,15,0.008369496937071032,8,8,True,0,17,3
+PRIMARY::P13 | LOAM | g,nominal,compact,joined,10,1,1,22,0.018267021817744748,9,9,True,0,22,9
+PRIMARY::P13 | LOAM | g,nominal,repair,joined,10,1,1,22,0.018267021817744748,9,9,True,0,22,9
+PRIMARY::P13 | LOAM | g,nominal,compact,graph_ward_wide,10,1,1,22,0.018267021817744748,9,9,True,0,21,5
+PRIMARY::P13 | LOAM | g,nominal,repair,graph_ward_wide,10,1,1,22,0.018267021817744748,9,9,True,0,21,5
+PRIMARY::P13 | LOAM | g,nominal,compact,spectral_cop_wide,10,1,1,22,0.018267021817744748,9,9,True,0,1,9
+PRIMARY::P13 | LOAM | g,nominal,repair,spectral_cop_wide,10,1,1,22,0.018267021817744748,9,9,True,0,1,9
+PRIMARY::P13 | LOAM | g,nominal,compact,joined_wide,10,1,1,22,0.018267021817744748,9,9,True,0,22,9
+PRIMARY::P13 | LOAM | g,nominal,repair,joined_wide,10,1,1,22,0.018267021817744748,9,9,True,0,22,9
+PRIMARY::P13 | LOAM | g,nu_5pct,compact,joined,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,nu_5pct,repair,joined,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,nu_5pct,compact,graph_ward_wide,10,1,1,22,0.018267021817744748,9,9,True,0,21,4
+PRIMARY::P13 | LOAM | g,nu_5pct,repair,graph_ward_wide,10,1,1,22,0.018267021817744748,9,9,True,0,21,4
+PRIMARY::P13 | LOAM | g,nu_5pct,compact,spectral_cop_wide,10,1,1,22,0.018267021817744748,9,9,True,0,1,8
+PRIMARY::P13 | LOAM | g,nu_5pct,repair,spectral_cop_wide,10,1,1,22,0.018267021817744748,9,9,True,0,1,8
+PRIMARY::P13 | LOAM | g,nu_5pct,compact,joined_wide,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,nu_5pct,repair,joined_wide,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,compact,joined,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,repair,joined,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,compact,graph_ward_wide,10,1,1,22,0.018267021817744748,9,9,True,0,21,4
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,repair,graph_ward_wide,10,1,1,22,0.018267021817744748,9,9,True,0,21,4
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,compact,spectral_cop_wide,10,1,1,22,0.018267021817744748,9,9,True,0,1,8
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,repair,spectral_cop_wide,10,1,1,22,0.018267021817744748,9,9,True,0,1,8
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,compact,joined_wide,10,1,1,22,0.018267021817744748,9,9,True,0,22,8
+PRIMARY::P13 | LOAM | g,cv_10pct_nu_5pct,repair,joined_wide,10,1,1,22,0.018267021817744748,9,9,True,0,22,8

@@ -1,0 +1,33 @@
+{
+  "active_contexts": 19,
+  "active_specimens": 247,
+  "nu_table_version": "amendment_1_2024",
+  "files": {
+    "assignments.csv": "a731fa1b7a02009acf869dbb7aebb408a1437d3d6e771b82f1743674715dbf14",
+    "borehole_deletions.csv": "b59c3d3fb8fc4b5abfc6a46dc5cdab293911965f13654788dd1a48a93e9805ce",
+    "group_audit.csv": "f2452aab685ae551459e87b1944dd63166d3d9e2040809db15aa5f3f256f5034",
+    "grubbs_comparison.csv": "64276488a1062dd9247553724c27c1fe993c4f25f8abdda732df770d01627c00",
+    "haarajoki_crust.json": "99c0b1c7420106044824855164d19f0c1f68e1dbb7954452ac52bd610437f2e1",
+    "metrics.csv": "946bab36b3efd603a149a6cb446f3aab5dd81ffdd4e82732e0afb668e870b47c",
+    "oracle_checks.csv": "218e0615e9414ddbce3b6c81eb1653bd81cecbc5ccfacea053fdafd85232ef8b",
+    "profile_comparison.csv": "6e6d5fe61dfe1a7e70ae6a3c5e69f5dd7691a74ed566e4aae3d1528453c360d1",
+    "provenance.json": "43281854c7b8d4130203f4cd6dbe3fc641853369ce25f4471838d0d82b75fae7",
+    "repair_depth_groups.csv": "c691dbeaef531afc53c4f12aceaa52dc7a90ac64f98d1f491e52c9cd2b2d412c",
+    "repair_depth_modes.csv": "827d30877ba5f5fb23ea253c519db079f6390a717aca627d5ad23fe979cd75f5",
+    "reserve_grid.csv": "93e5f2fa66cc8a9d707a1555d9c9d05aae190d9ef7a5fd7ec90585de9298d3b4",
+    "return_experiment.csv": "e359d2fc33cc94e8bdf1ec09ef99f68e3062fa85c046252fa7fb7c547e6ac1f5",
+    "review_reasons.csv": "7d13e8274eb58ea53d481cb684733c26e2005c19c200e08412aaba498541b8ee",
+    "revision_plan_summary.csv": "a8ae6a339457ccc320a90bb0666004a8447a5f11b0c133af87fb87cb30a28ced",
+    "revision_plans.json": "e8023172ddc8952ca7a98bb2cc3777d9c73e892de1de7aa2eab69771b6a08171",
+    "row_signature_sensitivity.csv": "cb3bb28e8118608ada6e861d1fa2f81591450610c3f7ca7d223eb10e03ec7c83",
+    "scale_timing.csv": "c1495063c79d8efb30e189b269917a351ff66d7d774534f11f78bbaad40f1591",
+    "source_unit_support.csv": "fb13f9d6a41dc62de46c62192f757e887c02d1b0bb651b1130ba20365b243f61",
+    "strength_signature.csv": "502a5c185576b729df4e9d7bcc74b175968c555bf135f13cb14dbe425bc2f070",
+    "tolsa_ablations.csv": "9a68e2c82d2335df3685c16530d04346cc7180f1f66a655441bb19eaf0e1eb56",
+    "tolsa_block_resampling.csv": "74993769771ee727e5243467e74dc8b99f0d877777e3e47a62bc6a3702b7c2f8",
+    "tolsa_depth_trend.csv": "16e9cd82f433e4f4d87874e01bee992d001582f4f600b3d9b1ef5ace8654c3bd",
+    "tolsa_hull_witnesses.json": "cf21cf0ec6651e50d98f380613fe4957b61bcf21aae0e5107cbd7c1cc2ead626",
+    "tolsa_projection_checks.csv": "b42ebef508ca210d3ff6914ae256e7c093772652cedadcece387dce651435f1e",
+    "void_ratio_density.csv": "e69c0421a89928cd209caf0ceed394edc62810817d3ba6b42280fd0ec9408444"
+  }
+}

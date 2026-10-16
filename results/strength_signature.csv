@@ -1,0 +1,8 @@
+site_id,context_id,n,zero_angle,signature
+P07,P07 | LOAM | g | sigma3=100.0,12,0,0
+P09,P09 | LOAM | m | sigma3=50.0,12,0,0
+P11,P11 | LOAM | m | sigma3=65.0,14,9,9
+P12,P12 | LOAM | m | sigma3=50.0,19,19,19
+P15,P15 | LOAM | l | sigma3=50.0,12,0,0
+P16,P16 | LOAM | g | sigma3=100.0,46,22,22
+P16,P16 | SANDY_LOAM | f | sigma3=100.0,12,0,0

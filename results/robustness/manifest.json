@@ -1,0 +1,74 @@
+{
+  "wide_grid": {
+    "GRAPH_NEIGHBORS": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "8",
+      "10",
+      "12",
+      "all"
+    ],
+    "SPECTRAL_NEIGHBORS": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "8",
+      "10",
+      "all"
+    ],
+    "BANDWIDTH_FACTORS": [
+      0.25,
+      0.5,
+      1.0,
+      1.5,
+      2.0,
+      4.0
+    ],
+    "MAX_ITERATIONS": 100
+  },
+  "wide_seeds": 100,
+  "budgets": [
+    [
+      "none",
+      0.0,
+      0
+    ],
+    [
+      "one",
+      0.0,
+      1
+    ],
+    [
+      "10pct",
+      0.1,
+      1
+    ],
+    [
+      "20pct",
+      0.2,
+      0
+    ],
+    [
+      "25pct",
+      0.25,
+      0
+    ],
+    [
+      "unlimited",
+      1.0,
+      0
+    ]
+  ],
+  "files": {
+    "deletion_outcomes.csv": "8e1c939497299385224148534e8301819cad95c8a6823f77cb0ffd1525262026",
+    "family_check.csv": "b47a3a1a5cc6244785204f08be9ccd86496d1ca2cf8e098605aba8bb60d613bb",
+    "gate_failures.csv": "8dc8e1a3da3d10310ada6405f100fc53c2b37fb13c52447624ad342ac928ea5d",
+    "review_budgets.csv": "e5f6ffcc2b4686f042010d9f1c196ee8c5b4f85f57d6470803f0ab7f0883e9ab",
+    "wide_search.csv": "cac9b608126463f2c5e703ec56428b14436bde7ce8d65b4be65c21c31ddf8f32"
+  }
+}

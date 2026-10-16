@@ -1,0 +1,5 @@
+n,A,K,review_budget,budget_excess,assigned_n,strict_feasible,strict_accepted_n,D,status,scope,optimal,seconds,candidate_count,order,mip_gap,initial_groups,initial_ari,B,context_id,method
+24,0,3,2,0,24,True,24,36,optimal,ordered_initial_ige|depth,True,1.7715451169997323,1323,initial_ige|depth,,4,0.684931506849315,0.007395691379722095,P16 | LOAM | g | sigma3=100.0,ordered
+24,0,2,2,0,24,True,24,92,optimal,complete_geometric_space,True,0.7464829320006174,1323,,0.0,4,0.3278271918678526,0.01655592789498947,P16 | LOAM | g | sigma3=100.0,evcca
+12,0,2,1,0,12,True,12,0,optimal,ordered_cohesion|tie:rho,True,0.005132748000505671,2,cohesion|tie:rho,,2,1.0,0.0029919819926543796,P16 | SANDY_LOAM | f | sigma3=100.0,ordered
+12,0,2,1,0,12,True,12,0,optimal,complete_subset_space,True,0.012577488999340858,2,,,2,1.0,0.0029919819926543796,P16 | SANDY_LOAM | f | sigma3=100.0,evcca

@@ -1,0 +1,3 @@
+partition,transform,group_1_n,group_2_n,B,hulls_intersect,positive_all_weights,minimum_weight,affine_rank,residual,no_nonconstant_weak_linear_separator,separator_order_A,separator_order_K
+0,raw,16,8,0.022785778046241954,True,True,0.0008558186273872305,4,2.220446049250313e-16,True,,
+0,log,16,8,0.022785778046241954,False,False,0.0,4,,False,0.0,2.0

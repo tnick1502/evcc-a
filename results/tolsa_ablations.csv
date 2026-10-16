@@ -1,0 +1,17 @@
+n,A,K,review_budget,budget_excess,assigned_n,strict_feasible,strict_accepted_n,D,status,scope,optimal,seconds,candidate_count,order,mip_gap,initial_groups,initial_ari,B,variant,method,optimal_or_at_bound
+24,1,3,2,0,23,True,23,133,optimal,ordered_depth,True,1.7613044600002468,2001,depth,,2,0.1181896800230614,0.011917636828608792,all_gates,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,2.8020647409994126,2001,,0.0,2,0.41101152368758004,0.0227857780462419,all_gates,evcca,True
+24,0,2,2,0,24,True,24,80,optimal,ordered_alpha|tie:rho,True,3.8275458429998253,3906,alpha|tie:rho,,2,0.3915343915343915,0.017870726045952766,no_extremum_gate,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,6.149743330000092,3906,,0.0,2,0.3915343915343915,0.017870726045952766,no_extremum_gate,evcca,True
+24,0,2,2,0,24,True,24,108,optimal,ordered_alpha|tie:rho,True,0.0998746420000316,106,alpha|tie:rho,,2,0.20486555697823303,0.02057250394481671,no_borehole_contiguity,ordered,True
+24,0,2,2,0,24,True,24,108,optimal,ordered_candidate_pool,False,0.07863114599967957,399,,0.0,2,0.20486555697823303,0.02057250394481671,no_borehole_contiguity,evcca,True
+24,1,3,2,0,23,True,23,133,optimal,ordered_depth,True,3.302149912999994,4222,depth,,2,0.1181896800230614,0.010966325747228865,drop_alpha,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,10.47990033699989,4222,,0.0,2,0.41101152368758004,0.02217276675043696,drop_alpha,evcca,True
+24,0,2,2,0,24,True,24,80,optimal,ordered_alpha|tie:water_pct,True,2.0050116809998144,2690,alpha|tie:water_pct,,2,0.3915343915343915,0.023165361952792573,drop_rho,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,2.4736914679997426,2690,,0.0,2,0.3915343915343915,0.023165361952792573,drop_rho,evcca,True
+24,1,2,2,0,23,True,23,93,optimal,ordered_alpha|tie:rho,True,1.5711157630003072,2250,alpha|tie:rho,,2,0.31199742682534576,0.01513569842685518,drop_water_pct,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,3.982359742999506,2250,,0.0,2,0.41101152368758004,0.01872358387351252,drop_water_pct,evcca,True
+24,1,3,2,0,23,True,23,135,optimal,ordered_depth,True,1.382105746999514,2048,depth,,2,0.09712125617912183,0.007887980589709211,drop_su,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,2.7595518200005245,2048,,0.0,2,0.41101152368758004,0.020727856818850747,drop_su,evcca,True
+24,1,3,2,0,23,True,23,133,optimal,ordered_depth,True,7.031168192999758,2001,depth,,2,0.1181896800230614,0.011917636828608792,32_random_directions,ordered,True
+24,0,2,2,0,24,True,24,80,optimal,complete_geometric_space,True,2.8763753579996774,2001,,0.0,2,0.41101152368758004,0.0227857780462419,32_random_directions,evcca,True

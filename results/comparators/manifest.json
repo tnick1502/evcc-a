@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "rows": 1980,
+  "files": {
+    "assignments.csv": "2d37586bd5973dcbea07cca1db7f55ff425b5b1c924dc677ccdc71ed842a8963",
+    "cohort_runs.csv": "9d7475f201e2138a47b5d0a7e668c9f22cf013b584448ba9392bec6932650c75",
+    "compared_results.csv": "682d75b7fc7d2482a9328ec1e474af1bfa824993546e4d80fcb4d18c0a8e239a",
+    "complete_reference_check.csv": "5591f4803fe1a36f5244f860ed4a648b41043b97cb38fa03b2f7125cac8de329",
+    "group_audit.csv": "03a0e28708bdfd390155eb34114fb11a00431f4e1e992edde5f9ac1a8f3eee3d",
+    "proposal_diagnostics.csv": "4d6f5ede90fe30fe65f1c4fd0f01c5b27a236500593a7dd0f1a1defcf57d2cbd",
+    "provenance.json": "d58cf2ea4498855905fad2628931914c2f4d9fba2d05d84b06d12daa9d64f729",
+    "results.csv": "bb9394349635eaea44bd89697804395ce88b52cb70cf111975a73d1e8ea115b2",
+    "summary.csv": "4922dd17d1d1e732c2e0818eeb69d949eacb38fcd77a6a16bf7761f46288f0d0"
+  }
+}

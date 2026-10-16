@@ -1,0 +1,56 @@
+{
+  "profile": "four",
+  "contexts": 19,
+  "specimens": 247,
+  "spectral_runs": 20,
+  "seed_base": 20261016,
+  "policies": [
+    {
+      "name": "nominal",
+      "cv_reserve": 0.0,
+      "nu_reserve": 0.0
+    },
+    {
+      "name": "nu_5pct",
+      "cv_reserve": 0.0,
+      "nu_reserve": 0.05
+    },
+    {
+      "name": "cv_10pct_nu_5pct",
+      "cv_reserve": 0.1,
+      "nu_reserve": 0.05
+    }
+  ],
+  "graph_neighbors": [
+    3,
+    5,
+    8,
+    "all"
+  ],
+  "spectral_neighbors": [
+    3,
+    5,
+    "all"
+  ],
+  "bandwidth_factors": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "max_assignment_iterations": 30,
+  "shared_seeds": "Full context, source units, pairwise unions of source units",
+  "shared_selection": "Greedy endpoint trimming, raw-property gates, lexicographic restricted master",
+  "spectral_assignment": "Row-normalized eigenvectors, nearest permitted centers, borehole order, review",
+  "scope": "Three reserve settings, four-property cohort; repair on primary contexts only",
+  "complete_reference_objectives_recomputed": 90,
+  "python": "3.11.17",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.9.0"
+  },
+  "input_sha256": "40374dc10480f9e703c8ab54d02b50293ee61cbc8f7bdbe443c3dbba4a13b920",
+  "implementation_sha256": "04f10b83cfa0d714dbfcf9e9ce3b315af1c8ab790ecf1d98c7bbb42995b9ffc7",
+  "timing": "Descriptive only: shared preprocessing and memoization; no wall-time ranking"
+}
